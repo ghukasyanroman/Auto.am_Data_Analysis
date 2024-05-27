@@ -1,0 +1,397 @@
+```{r}
+library(ggplot2)
+library(dplyr)
+library(scales)
+library(ggwordcloud)
+library(corrplot)
+library(ggrepel)
+library(tidyverse)
+```
+
+```{r}
+df_initial <- read.csv("final_dataset.csv")
+df_initial <- df_initial %>%
+  filter(grepl("Armenia", region))
+colnames(df_initial)
+```
+
+```{r}
+df_final <- read.csv("Final_Project_Dataset.csv")
+df_final <- df_final %>%
+  filter(grepl("Armenia", region))
+colnames(df_final)
+
+```
+
+```{r}
+df_ne <- read.csv('Not_Electric.csv')
+colnames(df_ne)
+```
+
+```{r}
+df_e <- read.csv('Electric.csv')
+colnames(df_e)
+```
+
+```{r}
+df_nas <- df_initial %>%
+  group_by(region)%>%
+  summarise(across(everything(), ~sum(is.na(.)))) %>%
+  arrange(region) %>%
+  select(-region) %>%
+  rowSums
+names(df_nas) <- sort(unique(df_initial$region))
+
+df_not_nas <- df_initial %>%
+  group_by(region)%>%
+  summarise(across(everything(), ~sum(!is.na(.)))) %>%
+  arrange(region) %>%
+  select(-region) %>%
+  rowSums
+
+names(df_nas) <- sort(unique(df_initial$region))
+names(df_not_nas) <- sort(unique(df_initial$region))
+df_all <- df_nas + df_not_nas
+df_ratio <- df_nas / df_all
+
+df_ratio <- as.data.frame(df_ratio)
+df_ratio$region <- rownames(df_ratio)
+rownames(df_ratio) <- NULL
+
+ggplot(df_ratio, aes(x = region, y = df_ratio * 100, fill = region)) +
+  geom_bar(stat = "identity") + 
+  scale_fill_brewer(palette = 'Set3') +
+  scale_y_continuous(labels = scales::percent_format(scale = 1), limits = c(0, 17)) +
+  theme_minimal() + 
+  theme_bw() + 
+  labs(fill = "Regions", x = '', y= 'Percentage of NA values', title = "NA Distribution Among Regions") + 
+  theme(axis.text.x = element_blank(),
+        axis.ticks.x = element_blank())
+```
+
+Correlation Between Numeric Columns
+
+```{r}
+corr_matrix_long <- df_ne %>%
+  select(where(~is.integer(.) | is.numeric(.))) %>%
+  cor() 
+
+corrplot(corr_matrix_long, method = "circle", type = "upper",
+         title = "Correlation Plot", mar = c(0, 0, 2, 0), tl.srt=45)
+
+```
+
+```{r}
+custom_palette <- c("#A6CEE3", "#1F78B4", "#B2DF8A", "#33A02C", 
+                    "#FB9A99", "#E31A1C", "#FDBF6F", "#FF7F00", 
+                    "#CAB2D6", "#6A3D9A", "#B15928","#009999")
+
+ggplot(df_final, aes(x = region, fill = region)) + 
+  geom_bar() + 
+  scale_fill_manual(values = custom_palette) + 
+  theme_minimal() + 
+  theme_bw() + 
+  labs(x = "", fill = "Regions", y = 'Number of Cars', title = "Yerevan is The Leading Region by The Number of Cars") + 
+  theme(axis.text.x = element_blank(),
+        axis.ticks.x = element_blank())
+```
+
+
+
+```{r}
+top_cars <- df_ne %>%
+  count(car) %>%
+  arrange(desc(n)) %>%
+  head(20)
+
+top_cars_wc <- ggplot(top_cars, aes(label = car, size = n, color = n)) +
+  geom_text_wordcloud(area_corr = TRUE) +
+  scale_size_area(max_size = 50) +
+  scale_color_gradient(low = "skyblue", high = "darkblue") +
+  labs(title = "Top 20 Most Common Not Electric Cars Word Cloud", x = NULL, y = NULL) +
+  theme_minimal()
+
+top_cars_wc
+```
+
+```{r}
+
+top_cars_e <- df_e %>%
+  count(car) %>%
+  arrange(desc(n)) %>%
+  head(20)
+
+top_cars_wc_e <- ggplot(top_cars_e, aes(label = car, size = n, color = n)) +
+  geom_text_wordcloud(area_corr = TRUE) +
+  scale_size_area(max_size = 70) +
+  scale_color_gradient(low = "skyblue", high = "darkblue") +
+  labs(title = "Top 20 Most Common Electric Cars Word Cloud", x = NULL, y = NULL) +
+  theme_minimal()
+
+top_cars_wc_e
+
+```
+
+```{r}
+
+df_final %>%
+  group_by(year) %>%
+  summarise(mean = mean(price)) %>%
+  filter(year>1999) -> year_price
+
+  highest_mean <- year_price[which.max(year_price$mean), ]
+  
+  ggplot(year_price, aes(x = year, y = mean)) + 
+  geom_line(linewidth = 1) +
+  geom_point(data = highest_mean, aes(x = year, y = mean), color = "red", size = 3)+
+  geom_text(data = highest_mean, aes(x = year, y = mean, label = paste("$", round(mean/1e3, 2), "K")), vjust = 0.5, hjust = -0.15, color = "red") +
+  scale_x_continuous(breaks = seq(min(year_price$year), max(year_price$year), by = 2)) + 
+  scale_y_continuous(labels = function(x) paste("$", scales::label_number(suffix = "K", scale = 1e-3)(x), sep = "")) + 
+  theme_minimal() + 
+  theme_bw() + 
+  labs(x = "Year", y= 'Mean Price', title = "The Cars Produced in 2022 are the Most Expensive") 
+
+```
+
+```{r}
+
+df_final %>%
+  group_by(car) %>%
+  summarise(count = n())%>%
+  arrange(desc(count))%>%
+  head(5) -> car_count
+
+df_final %>%
+  filter(car %in% car_count$car, year  > 1999) %>%
+  group_by(year, car) %>%
+  summarise(mean_price = mean(price), .groups = "drop") -> yearly_mean_price
+
+ggplot(yearly_mean_price, aes(x = year, y = mean_price, color = car)) +
+  geom_line(linewidth = 1) +
+  scale_x_continuous(breaks = seq(min(yearly_mean_price$year), max(yearly_mean_price$year), by = 2)) + 
+  scale_y_continuous(labels = function(x) paste("$", scales::label_number(suffix = "K", scale = 1e-3)(x), sep = "")) + 
+  theme_minimal() + 
+  theme_bw() + 
+  labs(title = "Mercedes-Benz is The Highest Selling Car Among Top 5 Cars", x = "Year", y = "Mean Price", color = "Top 5 Cars") 
+
+
+```
+
+
+```{r}
+df_bmw <- df_final %>%
+  filter(car == "BMW")
+
+top_models_bmw <- df_bmw %>%
+  count(model) %>%
+  arrange(desc(n)) %>%
+  head(3) %>%
+  select(model)
+
+df_bmw_models <- df_bmw %>%
+  filter(model %in% top_models_bmw$model)
+
+yearly_mean_price_bmw <- df_bmw_models %>%
+  group_by(model, year) %>%
+  summarise(mean_price = mean(price), .groups = "drop")
+
+ggplot(yearly_mean_price_bmw, aes(x = year, y = mean_price, color = model)) +
+  geom_line(linewidth = 1) +
+  scale_x_continuous(breaks = seq(min(df_final$year), max(df_final$year), by = 2)) + 
+  scale_y_continuous(labels = function(x) paste("$", scales::label_number(suffix = "K", scale = 1e-3)(x), sep = "")) + 
+  theme_minimal() + 
+  theme_bw() + 
+  labs(title = "Mean Price of Top 3 Models for BMW Through Years", x = "Year", y = "Mean Price", color = "Model")
+
+```
+
+```{r}
+df_mazda <- df_final %>%
+  filter(car == "Mazda")
+
+top_models_mazda <- df_mazda %>%
+  count(model) %>%
+  arrange(desc(n)) %>%
+  head(3) %>%
+  select(model)
+
+df_mazda_models <- df_mazda %>%
+  filter(model %in% top_models_mazda$model)
+
+yearly_mean_price_mazda <- df_mazda_models %>%
+  group_by(model, year) %>%
+  summarise(mean_price = mean(price), .groups = "drop")
+
+ggplot(yearly_mean_price_mazda, aes(x = year, y = mean_price, color = model)) +
+  geom_line(linewidth = 1) +
+  scale_x_continuous(breaks = seq(min(df_final$year), max(df_final$year), by = 2)) + 
+  scale_y_continuous(labels = function(x) paste("$", scales::label_number(suffix = "K", scale = 1e-3)(x), sep = "")) + 
+  theme_minimal() + 
+  theme_bw() + 
+  labs(title = "Mean Price of Top 3 Models for Mazda Through Years", x = "Year", y = "Mean Price", color = "Model")
+
+
+```
+
+```{r}
+df_mercedes <- df_final %>%
+  filter(car == "Mercedes-Benz")
+
+top_models_mercedes <- df_mercedes %>%
+  count(model) %>%
+  arrange(desc(n)) %>%
+  head(3) %>%
+  select(model)
+
+df_mercedes_models <- df_mercedes %>%
+  filter(model %in% top_models_mercedes$model)
+
+yearly_mean_price_mercedes <- df_mercedes_models %>%
+  group_by(model, year) %>%
+  summarise(mean_price = mean(price), .groups = "drop")
+
+ggplot(yearly_mean_price_mercedes, aes(x = year, y = mean_price, color = model)) +
+  geom_line(linewidth = 1) +
+  scale_x_continuous(breaks = seq(min(df_final$year), max(df_final$year), by = 2)) + 
+  scale_y_continuous(labels = function(x) paste("$", scales::label_number(suffix = "K", scale = 1e-3)(x), sep = "")) + 
+  theme_minimal() + 
+  theme_bw() + 
+  theme(axis.text.x = element_text(angle = 45, vjust=0.5)) +
+  labs(title = "Mean Price of Top 3 Models for Mercedes-Benz Through Years", x = "Year", y = "Mean Price", color = "Model") 
+
+```
+
+```{r}
+condition_price <- df_final %>%
+  filter(Condition != "For parts", price <= 100000)
+
+  ggplot(condition_price, aes(x = Condition, y = price, fill = Condition)) +
+  geom_violin(trim = FALSE) +
+  scale_fill_brewer(palette = 'Set3') +
+  theme_minimal() + 
+  theme_bw() + 
+  scale_y_continuous(labels = function(x) paste("$", scales::label_number(suffix = "K", scale = 1e-3)(x), sep = ""))+
+  labs(x = "", fill = "Condition", y= 'Price', title = "Price Distribution by Condition") + 
+  theme(axis.text.x = element_blank(),
+        axis.ticks.x = element_blank())
+```
+
+
+```{r}
+
+df_final %>%
+  filter(price <= 100000) %>%
+  ggplot(aes(x = Body.Style, y = price, fill = Body.Style)) +
+  geom_boxplot() +
+  labs(title = "Box Plot of Price Across Body Styles",
+       x = "Body Style",
+       y = "Price") +
+  scale_fill_brewer(palette = "Set3") + 
+  theme_minimal() + 
+  theme_bw() + 
+  scale_y_continuous(labels = function(x) paste("$", scales::label_number(suffix = "K", scale = 1e-3)(x), sep = ""))+
+  labs(x = "", fill = "Body Style", y= 'Price', title = 'Price Variation Across Different Body Styles') + 
+  theme(axis.text.x = element_blank(),
+        axis.ticks.x = element_blank())
+```
+
+
+```{r}
+
+top_cars_e_7 <- df_e %>%
+  count(car) %>%
+  arrange(desc(n)) %>%
+  head(7)
+
+df_e %>%
+  filter(car %in% top_cars_e_7$car) %>%
+  ggplot(aes(x = car, y = price, fill = car)) +
+  geom_boxplot() +
+  labs(title = "Box Plot of Price Across Body Styles",
+       x = "Body Style",
+       y = "Price") +
+  scale_fill_brewer(palette = "Set3") + 
+  theme_minimal() + 
+  theme_bw() + 
+  scale_y_continuous(labels = function(x) paste("$", scales::label_number(suffix = "K", scale = 1e-3)(x), sep = ""))+
+  labs(x = "", fill = "Car", y= 'Price', title = 'Price Variation Across Top 7 Electric Cars') + 
+  theme(axis.text.x = element_blank(),
+        axis.ticks.x = element_blank())
+```
+
+```{r}
+  ggplot(df_final, aes(x = Mileage, y = price)) + 
+  geom_point(alpha = 0.5, shape = 1, color = 'purple') +
+  theme_minimal() + 
+  labs(x = "Mileage (km)", y = "Price", title = "Relationship Between Mileage and Price") + 
+  scale_x_continuous(labels = function(x) paste(scales::label_number(suffix = "K", scale = 1e-3)(x), sep = ""))+
+  scale_y_continuous(labels = function(x) paste("$", scales::label_number(suffix = "K", scale = 1e-3)(x), sep = ""))
+
+```
+
+
+```{r}
+
+region_style <- df_final  %>%
+  group_by(region, Body.Style) %>%
+  summarise(count = n(), .groups = "drop") %>%
+  mutate(proportion = count / sum(count))
+
+ggplot(region_style, aes(x=factor(region), y=proportion, fill=Body.Style)) + 
+  geom_bar(stat = "identity", position = "fill")+
+  labs(x = "Region", y = "Proprotion", fill = "Body Style") +
+  ggtitle("Proportion of Body Styles by Region") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  scale_fill_brewer(palette = "Set3")
+
+```
+
+```{r}
+hand_drive_counts <- df_final %>%
+  group_by(Hand.Drive) %>%
+  summarise(count = n())
+
+hand_drive_counts %>% 
+    mutate(csum = rev(cumsum(rev(count))), 
+           pos = count/2 + lead(csum, 1),
+           pos = if_else(is.na(pos), count/2, pos),
+           percentage = count/sum(count)) %>% 
+    ggplot(aes(x = "", y = count, fill = fct_inorder(Hand.Drive))) + 
+    geom_col(width = 1, color = 1) +
+    geom_label_repel(aes(y = pos,
+                         label = glue::glue("{count} ({scales::percent(percentage)})"), 
+                         fill = Hand.Drive),
+                     size = 4,
+                     nudge_x = 0.75,
+                     show.legend = FALSE) +
+    labs(  fill = "Types of Hand Drive" ) +
+    coord_polar(theta = "y") +
+    theme_void() 
+
+
+```
+
+```{r}
+gearbox_counts <- df_final %>%
+  group_by(Gearbox) %>%
+  summarise(count = n())
+
+gearbox_counts %>% 
+    mutate(csum = rev(cumsum(rev(count))), 
+           pos = count/2 + lead(csum, 1),
+           pos = if_else(is.na(pos), count/2, pos),
+           percentage = count/sum(count)) %>% 
+    ggplot(aes(x = "", y = count, fill = fct_inorder(Gearbox))) + 
+    geom_col(width = 1, color = 1) +
+    geom_label_repel(aes(y = pos,
+                         label = glue::glue("{count} ({scales::percent(percentage)})"), 
+                         fill = Gearbox),
+                     size = 4,
+                     nudge_x = 0.75,
+                     show.legend = FALSE) +
+    labs(  fill = "Types of Gearbox" ) +
+    coord_polar(theta = "y") +
+    theme_void()
+
+
+```

@@ -1,0 +1,504 @@
+car,model,year,price,region,Mileage,Body Style,Engine,Gearbox,Hand Drive,Color,Condition,link,Engine Volume,Horsepower,Engine Cylinders,Drive train,Battery capacity in kW,Number of electric motors,Range
+BMW,iX3 ,2022,90700.0,Armenia,200.0,SUV / Truck,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/2847281,3.0,340,6,AWD 4x4,80.0,2.0,420.0
+Mercedes-Benz,EQS ,2022,90000.0,"Armenia, Yerevan",6000.0,Hatchback,Electric,Automatic,Left,Black,New,https://auto.am/offer/2985239,3.5,288,8,RWD,100.0,2.0,700.0
+Honda,e:NS1 ,2023,24750.0,Armenia,20.0,SUV / Truck,Electric,Automatic,Left,White,New,https://auto.am/offer/3015152,1.5,204,4,FWD,68.0,1.0,510.0
+Aiqar,eQ3 ,2024,24750.0,"Armenia, Yerevan",10.0,Wagon,Electric,Automatic,Left,Silver,New,https://auto.am/offer/3006110,2.5,184,4,AWD 4x4,67.0,1.0,401.0
+Neta,X ,2024,24750.0,Armenia,10.0,Wagon,Electric,Automatic,Left,Black,New,https://auto.am/offer/3039876,2.5,163,4,FWD,68.0,1.0,501.0
+Ford,Focus ,2013,9800.0,"Armenia, Yerevan",142400.0,Hatchback,Electric,Automatic,Left,Black,Good,https://auto.am/offer/3026567,2.5,176,4,FWD,23.0,1.0,120.0
+Chevrolet,Volt ,2014,9800.0,"Armenia, Yerevan",208000.0,Sedan,Electric,Automatic,Left,Sky-blue,Excellent,https://auto.am/offer/3036867,1.4,149,4,FWD,60.0,4.0,100.0
+Chevrolet,Volt ,2013,9700.0,"Armenia, Yerevan",176000.0,Hatchback,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3034536,1.4,149,4,FWD,149.0,2.0,70.0
+Honda,M-NV ,2023,23750.0,"Armenia, Yerevan",20.0,SUV / Truck,Electric,Automatic,Left,White,New,https://auto.am/offer/3015166,1.5,218,4,FWD,61.0,1.0,505.0
+Chevrolet,Volt ,2013,9500.0,"Armenia, Yerevan",144000.0,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3020002,1.4,149,4,FWD,100.0,4.0,70.0
+Chevrolet,Volt ,2014,9500.0,"Armenia, Yerevan",192.0,Hatchback,Electric,Automatic,Left,Beige,Good,https://auto.am/offer/2994911,1.4,149,4,FWD,12.0,1.0,75.0
+Fiat,500,2018,9500.0,"Armenia, Yerevan",64000.0,Coupe,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3031746,1.4,160,4,RWD,24.0,1.0,130.0
+Chevrolet,Volt ,2015,9400.0,"Armenia, Yerevan",76033.6,Hatchback,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2991422,1.4,149,4,FWD,17.0,1.0,50.0
+Chevrolet,Volt ,2012,9250.0,"Armenia, Ararat",98000.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2682337,2.4,149,4,FWD,5.0,1.0,65.0
+Chevrolet,Volt ,2014,9100.0,Armenia,204800.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2965283,1.4,149,4,FWD,12.0,1.0,75.0
+Nissan,Leaf ,2017,9000.0,"Armenia, Yerevan",101000.0,Hatchback,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3038462,2.5,145,4,AWD 4x4,30.0,2.0,200.0
+Chevrolet,Volt ,2013,9000.0,"Armenia, Yerevan",208000.0,Sedan,Electric,Automatic,Left,Red,Excellent,https://auto.am/offer/3033089,1.4,150,4,FWD,58.0,4.0,90.0
+Nissan,Leaf ,2016,9000.0,"Armenia, Yerevan",60000.0,Hatchback,Electric,Automatic,Left,Silver,Excellent,https://auto.am/offer/3039172,1.6,188,4,FWD,32.0,1.0,100.0
+Audi,Q4 ,2022,89700.0,Armenia,13000.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2842487,3.0,225,4,AWD 4x4,84.0,2.0,500.0
+Mercedes-Benz,EQE ,2023,89200.0,Armenia,3000.0,SUV / Truck,Electric,Automatic,Left,Black,sell.condition-values.,https://auto.am/offer/3026334,2.5,288,4,AWD 4x4,96.0,2.0,600.0
+Mercedes-Benz,EQE ,2023,87500.0,"Armenia, Yerevan",3800.0,SUV / Truck,Electric,Automatic,Left,Black,New,https://auto.am/offer/3026673,2.5,292,4,AWD 4x4,100.0,2.0,600.0
+Mercedes-Benz,EQE ,2023,87000.0,"Armenia, Yerevan",2000.0,SUV / Truck,Electric,Automatic,Left,Gray,New,https://auto.am/offer/2994476,2.5,288,4,AWD 4x4,96.0,2.0,609.0
+Mercedes-Benz,EQE ,2023,86000.0,"Armenia, Yerevan",10.0,SUV / Truck,Electric,Automatic,Left,Gray,sell.condition-values.,https://auto.am/offer/2991470,2.5,288,4,AWD 4x4,156.0,2.0,610.0
+Porsche,Taycan ,2022,85000.0,Armenia,32000.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2991867,2.5,200,4,AWD 4x4,79.0,2.0,500.0
+Tesla,Model S ,2023,85000.0,"Armenia, Yerevan",7001.0,Hatchback,Electric,Automatic,Left,Black,New,https://auto.am/offer/3037581,2.5,670,4,AWD 4x4,100.0,2.0,630.0
+Mercedes-Benz,EQS ,2021,85000.0,Armenia,30000.0,Hatchback,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2985996,4.0,408,6,AWD 4x4,100.0,1.0,700.0
+Mercedes-Benz,EQE ,2023,84000.0,"Armenia, Yerevan",100.0,Wagon,Electric,Automatic,Left,Black,sell.condition-values.,https://auto.am/offer/3037003,2.5,288,4,AWD 4x4,96.0,2.0,600.0
+Mercedes-Benz,EQB ,2022,82000.0,Armenia,9000.0,SUV / Truck,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2854745,4.0,408,8,AWD 4x4,80.0,2.0,431.0
+BMW,i5 ,2023,80000.0,"Armenia, Yerevan",1500.0,Sedan,Electric,Automatic,Left,Blue,sell.condition-values.,https://auto.am/offer/3039351,2.0,252,4,AWD 4x4,86.0,2.0,600.0
+Volkswagen,ID.3 ,2022,22250.0,"Armenia, Yerevan",20.0,Hatchback,Electric,Automatic,Left,White,New,https://auto.am/offer/3002473,2.5,204,4,RWD,57.0,1.0,460.0
+Chevrolet,Volt ,2014,8900.0,"Armenia, Yerevan",150000.0,Hatchback,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3037552,1.4,149,4,FWD,18.0,1.0,70.0
+Chevrolet,Volt ,2011,8800.0,"Armenia, Yerevan",120000.0,Sedan,Electric,Automatic,Left,Օther color,Good,https://auto.am/offer/2994551,1.4,200,4,AWD 4x4,10.0,1.0,81.0
+Chevrolet,Volt ,2011,8800.0,Armenia,136000.0,Hatchback,Electric,Automatic,Left,Red,Excellent,https://auto.am/offer/3023361,1.4,200,4,AWD 4x4,8.0,1.0,81.0
+Chevrolet,Volt ,2012,8800.0,"Armenia, Yerevan",160000.0,Hatchback,Electric,Automatic,Left,Silver,Good,https://auto.am/offer/3023215,1.4,181,4,FWD,12.0,1.0,65.0
+Chevrolet,Volt ,2012,8500.0,"Armenia, Yerevan",170000.0,Hatchback,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3005970,1.4,183,4,FWD,12.0,1.0,65.0
+Nissan,Leaf ,2016,8500.0,"Armenia, Yerevan",110000.0,Hatchback,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3038466,1.6,188,4,FWD,25.0,1.0,150.0
+Chevrolet,Volt ,2014,8400.0,"Armenia, Yerevan",130000.0,Hatchback,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3029363,1.4,149,4,FWD,1.0,1.0,60.0
+Chevrolet,Volt ,2013,8300.0,"Armenia, Yerevan",111111.0,Sedan,Electric,Automatic,Left,Black,Good,https://auto.am/offer/3029376,1.4,149,4,FWD,10.0,1.0,70.0
+Neta,V Pro ,2023,20000.0,"Armenia, Yerevan",10.0,Wagon,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2910244,2.5,163,4,FWD,40.0,1.0,500.0
+Tesla,Model S ,2022,79900.0,"Armenia, Yerevan",800.0,Sedan,Electric,Automatic,Left,Blue,New,https://auto.am/offer/2975958,2.5,670,4,AWD 4x4,110.0,2.0,660.0
+Tesla,Model S ,2022,79000.0,"Armenia, Yerevan",9500.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3017748,2.5,670,4,AWD 4x4,100.0,2.0,650.0
+BMW,i5 ,2023,71760.0,Armenia,23.0,Sedan,Electric,Automatic,Left,Blue,New,https://auto.am/offer/2995882,2.0,252,4,AWD 4x4,105.0,2.0,600.0
+Avatr,11,2023,77700.0,Armenia,2500.0,SUV / Truck,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2989833,2.5,200,4,AWD 4x4,1.0,2.0,500.0
+Tesla,Model S ,2021,76500.0,"Armenia, Yerevan",15000.0,Sedan,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2991510,2.5,271,4,RWD,100.0,3.0,550.0
+Porsche,Taycan ,2021,76000.0,Armenia,50000.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3032610,2.5,200,4,AWD 4x4,75.0,2.0,450.0
+Mercedes-Benz,EQC ,2022,75000.0,Armenia,10.0,SUV / Truck,Electric,Automatic,Left,Black,sell.condition-values.,https://auto.am/offer/3037024,4.0,408,8,AWD 4x4,79.0,2.0,443.0
+Tesla,Model S ,2023,75000.0,Armenia,9000.0,Sedan,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2994653,2.5,670,4,AWD 4x4,75.0,2.0,630.0
+BMW,iX ,2022,74000.0,"Armenia, Yerevan",16700.0,SUV / Truck,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3028807,3.0,330,6,AWD 4x4,240.0,2.0,420.0
+Mercedes-Benz,EQE ,2023,73000.0,"Armenia, Yerevan",45.0,SUV / Truck,Electric,Automatic,Left,White,sell.condition-values.,https://auto.am/offer/2999774,2.5,288,4,AWD 4x4,89.0,2.0,595.0
+Mercedes-Benz,EQE ,2023,73000.0,"Armenia, Yerevan",40.0,SUV / Truck,Electric,Automatic,Left,Black,sell.condition-values.,https://auto.am/offer/2999771,2.5,288,4,AWD 4x4,89.0,2.0,595.0
+Audi,Q5 e-tron ,2023,73000.0,Armenia,98.0,SUV / Truck,Electric,Automatic,Left,White,sell.condition-values.,https://auto.am/offer/3027030,4.0,204,4,RWD,200.0,2.0,560.0
+Audi,Q5 e-tron ,2023,72300.0,"Armenia, Yerevan",3000.0,SUV / Truck,Electric,Automatic,Left,Gray,New,https://auto.am/offer/3038625,4.0,204,4,RWD,84.0,2.0,560.0
+Mercedes-Benz,EQC ,2022,71700.0,Armenia,16700.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2948776,4.0,408,8,AWD 4x4,80.0,2.0,431.0
+Tesla,Model S ,2022,70000.0,"Armenia, Yerevan",10000.0,Sedan,Electric,Automatic,Left,Gray,Good,https://auto.am/offer/3036481,2.5,670,4,AWD 4x4,100.0,2.0,630.0
+Mercedes-Benz,EQE ,2024,70000.0,"Armenia, Yerevan",50.0,SUV / Truck,Electric,Automatic,Left,Black,New,https://auto.am/offer/3029451,2.5,292,4,AWD 4x4,96.0,2.0,613.0
+Ford,Focus ,2013,7900.0,"Armenia, Aragatsotn",95000.0,Hatchback,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3009003,2.5,176,4,FWD,24.0,1.0,120.0
+Chevrolet,Volt ,2013,7900.0,"Armenia, Yerevan",208000.0,Hatchback,Electric,Automatic,Left,Silver,Excellent,https://auto.am/offer/3028847,1.4,149,4,FWD,16.0,1.0,50.0
+Chevrolet,Volt ,2011,7600.0,"Armenia, Yerevan",164800.0,Hatchback,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3039223,1.4,200,4,AWD 4x4,112.0,1.0,123.0
+Nissan,Leaf ,2019,18750.0,"Armenia, Yerevan",34000.0,Hatchback,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3017974,1.6,122,4,FWD,40.0,1.0,250.0
+Aiqar,Arrizo e ,2024,18750.0,"Armenia, Yerevan",10.0,Sedan,Electric,Automatic,Left,Gray,New,https://auto.am/offer/3006123,2.5,120,4,RWD,48.0,1.0,405.0
+Chevrolet,Volt ,2011,7500.0,"Armenia, Yerevan",130000.0,Sedan,Electric,Automatic,Left,Red,Excellent,https://auto.am/offer/3033115,1.4,200,4,AWD 4x4,109.0,1.0,40.0
+Nissan,Leaf ,2013,7500.0,"Armenia, Yerevan",35000.0,Hatchback,Electric,Automatic,Left,Red,sell.condition-values.,https://auto.am/offer/3033224,1.6,333,4,AWD 4x4,24.0,1.0,130.0
+Nissan,Leaf ,2016,7500.0,"Armenia, Yerevan",100000.0,Sedan,Electric,Automatic,Left,Blue,Good,https://auto.am/offer/3034890,2.5,131,1,FWD,60.0,1.0,120.0
+Fiat,500,2014,7000.0,"Armenia, Yerevan",80000.0,Coupe,Electric,Automatic,Left,Aubergine,Good,https://auto.am/offer/3037470,1.4,200,4,AWD 4x4,24.0,1.0,150.0
+Mercedes-Benz,EQC ,2023,68700.0,Armenia,5500.0,Pickup Truck,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/2989446,2.5,288,4,AWD 4x4,80.0,2.0,500.0
+Mercedes-Benz,EQC ,2022,68000.0,"Armenia, Yerevan",10000.0,Wagon,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3002635,4.0,408,8,AWD 4x4,1.0,2.0,431.0
+Mercedes-Benz,EQC ,2022,67000.0,"Armenia, Yerevan",10000.0,SUV / Truck,Electric,Automatic,Left,Black,sell.condition-values.,https://auto.am/offer/3030345,4.0,408,8,AWD 4x4,82.0,2.0,420.0
+Audi,Q5 e-tron ,2023,67000.0,Armenia,12000.0,SUV / Truck,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/2960103,4.0,204,4,RWD,150.0,2.0,560.0
+Mercedes-Benz,EQE ,2022,67000.0,"Armenia, Yerevan",13500.0,Sedan,Electric,Automatic,Left,Օther color,Excellent,https://auto.am/offer/3034554,3.0,288,6,RWD,215.0,1.0,745.0
+Mercedes-Benz,EQC ,2022,65500.0,"Armenia, Yerevan",30000.0,SUV / Truck,Electric,Automatic,Left,Black,sell.condition-values.,https://auto.am/offer/3040659,4.0,408,8,AWD 4x4,80.0,2.0,400.0
+Tesla,Model S ,2021,65000.0,Armenia,19200.0,Sedan,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2869438,2.5,271,4,RWD,60.0,3.0,550.0
+Cadillac,LaSalle ,2022,65000.0,"Armenia, Yerevan",30.0,Wagon,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2973990,2.5,200,4,AWD 4x4,150.0,1.0,650.0
+BMW,iX3 ,2022,65000.0,Armenia,200.0,SUV / Truck,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/2845929,3.0,340,6,AWD 4x4,80.0,2.0,420.0
+Ford,Mustang ,2022,65000.0,"Armenia, Yerevan",8160.0,SUV / Truck,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3019016,1.5,480,3,AWD 4x4,110.0,4.0,500.0
+Mercedes-Benz,EQE ,2022,65000.0,"Armenia, Yerevan",1000.0,Hatchback,Electric,Automatic,Left,Black,New,https://auto.am/offer/2958629,3.5,288,8,RWD,89.0,2.0,600.0
+Zeekr,001 ,2023,65000.0,"Armenia, Yerevan",20.0,Hatchback,Electric,Automatic,Left,Black,New,https://auto.am/offer/3018804,2.5,540,4,AWD 4x4,100.0,2.0,700.0
+Tesla,Model X ,2021,65000.0,"Armenia, Yerevan",48000.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3037553,2.5,350,4,AWD 4x4,100.0,2.0,550.0
+Zeekr,001 ,2024,64000.0,"Armenia, Yerevan",50.0,Hatchback,Electric,Automatic,Left,Black,New,https://auto.am/offer/3027957,2.5,780,4,AWD 4x4,100.0,2.0,750.0
+Zeekr,001 ,2024,64000.0,Armenia,10.0,Wagon,Electric,Automatic,Left,Օther color,sell.condition-values.,https://auto.am/offer/3038821,2.5,789,4,AWD 4x4,789.0,2.0,705.0
+Tesla,Model X ,2018,64000.0,"Armenia, Yerevan",65000.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3019404,2.5,304,4,AWD 4x4,568.0,4.0,400.0
+Voyah,Free ,2023,63900.0,Armenia,1000.0,SUV / Truck,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/2957629,2.5,200,4,AWD 4x4,510.0,2.0,500.0
+Ford,Mustang ,2021,63000.0,"Armenia, Yerevan",20000.0,Hatchback,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3017605,3.65,460,4,AWD 4x4,93.0,2.0,500.0
+Mercedes-Benz,EQB ,2023,62500.0,Armenia,40000.0,SUV / Truck,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2998687,2.5,288,4,AWD 4x4,66.0,1.0,380.0
+Zeekr,001 ,2023,62000.0,"Armenia, Yerevan",30.0,Hatchback,Electric,Automatic,Left,Black,New,https://auto.am/offer/3039918,2.5,544,4,AWD 4x4,100.0,2.0,656.0
+Zeekr,001 ,2024,62000.0,"Armenia, Yerevan",10.0,Hatchback,Electric,Automatic,Left,Black,New,https://auto.am/offer/3038017,2.5,784,4,AWD 4x4,100.0,2.0,700.0
+Mercedes-Benz,EQC ,2020,62000.0,"Armenia, Yerevan",29000.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2933574,3.0,367,6,AWD 4x4,400.0,4.0,550.0
+Mercedes-Benz,EQC ,2021,62000.0,Armenia,19000.0,SUV / Truck,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3027436,4.0,408,6,AWD 4x4,90.0,4.0,600.0
+Mercedes-Benz,EQC ,2021,61000.0,"Armenia, Yerevan",23000.0,SUV / Truck,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3003766,4.0,408,6,AWD 4x4,80.0,4.0,350.0
+Mercedes-Benz,EQC ,2022,60000.0,"Armenia, Yerevan",50.0,SUV / Truck,Electric,Automatic,Left,Black,sell.condition-values.,https://auto.am/offer/3038569,4.0,408,8,AWD 4x4,80.0,2.0,450.0
+Ford,Mach-e ,2021,60000.0,Armenia,22000.0,Wagon,Electric,Automatic,Left,Blue,Excellent,https://auto.am/offer/2949910,3.65,459,4,AWD 4x4,90.0,2.0,430.0
+Tesla,Model S ,2020,60000.0,"Armenia, Yerevan",29000.0,Sedan,Electric,Automatic,Right,Gray,Excellent,https://auto.am/offer/3021194,2.5,795,4,AWD 4x4,585.0,4.0,500.0
+Mercedes-Benz,EQC ,2021,60000.0,"Armenia, Yerevan",14500.0,SUV / Truck,Electric,Automatic,Left,Blue,Excellent,https://auto.am/offer/3019395,4.0,408,6,AWD 4x4,300.0,4.0,550.0
+Jaguar,I-Pace ,2019,60000.0,"Armenia, Yerevan",15000.0,Wagon,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3012221,2.5,249,4,AWD 4x4,90.0,2.0,450.0
+Chevrolet,Bolt EV ,2023,6600.0,Armenia,8000.0,Hatchback,Electric,Automatic,Left,Blue,Damaged,https://auto.am/offer/3035240,5.3,200,8,AWD 4x4,61.0,2.0,380.0
+Nissan,Leaf ,2012,6500.0,"Armenia, Yerevan",112000.0,Hatchback,Electric,Automatic,Left,Silver,Excellent,https://auto.am/offer/3040244,1.825,98,3,FWD,24.0,1.0,85.0
+BYD,Seagull ,2023,15500.0,Armenia,305.0,Hatchback,Electric,Automatic,Left,Black,sell.condition-values.,https://auto.am/offer/3038467,2.5,218,4,FWD,30.0,1.0,305.0
+Volkswagen,e-Lavida ,2021,15500.0,"Armenia, Yerevan",97000.0,Sedan,Electric,Automatic,Left,White,Good,https://auto.am/offer/3035563,2.5,136,4,RWD,44.0,1.0,346.0
+Nissan,Leaf ,2012,6200.0,"Armenia, Yerevan",91000.0,Hatchback,Electric,Automatic,Left,Silver,Excellent,https://auto.am/offer/3014025,1.825,98,3,FWD,24.0,1.0,85.0
+Nissan,Leaf ,2012,6000.0,"Armenia, Yerevan",67000.0,Hatchback,Electric,Automatic,Transformed from right to left,Black,Good,https://auto.am/offer/3036132,1.825,98,3,FWD,18.0,1.0,85.0
+Tesla,Model S ,2020,59000.0,"Armenia, Yerevan",29000.0,Sedan,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3034951,2.5,670,4,AWD 4x4,100.0,2.0,560.0
+Mercedes-Benz,EQC ,2021,59000.0,"Armenia, Yerevan",33000.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3026243,4.0,408,6,AWD 4x4,85.0,2.0,400.0
+Tesla,Model X ,2020,59000.0,Armenia,40000.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3031340,2.5,403,4,AWD 4x4,100.0,2.0,550.0
+Tesla,Model S ,2020,59000.0,"Armenia, Syunik",54000.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3031345,2.5,732,4,AWD 4x4,100.0,2.0,610.0
+Volkswagen,ID.4 ,2022,58800.0,Armenia,2000.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2833636,2.5,204,4,RWD,84.0,2.0,500.0
+Mercedes-Benz,EQC ,2021,58500.0,"Armenia, Yerevan",21600.0,SUV / Truck,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3019397,4.0,408,6,AWD 4x4,300.0,4.0,550.0
+Mercedes-Benz,EQC ,2020,58000.0,"Armenia, Yerevan",59000.0,Wagon,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3024300,3.0,367,6,AWD 4x4,80.0,4.0,460.0
+Mercedes-Benz,EQC ,2021,58000.0,"Armenia, Yerevan",49000.0,Wagon,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3027434,4.0,408,6,AWD 4x4,80.0,4.0,408.0
+BMW,i7 ,2024,143750.0,Armenia,900.0,Sedan,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3019023,2.5,200,4,AWD 4x4,105.0,4.0,650.0
+Audi,e-tron ,2021,57000.0,"Armenia, Yerevan",52800.0,SUV / Truck,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/2972222,3.5,507,6,AWD 4x4,300.0,2.0,500.0
+Tesla,Model Y ,2021,56000.0,"Armenia, Yerevan",60800.0,SUV / Truck,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3036505,2.5,350,4,AWD 4x4,378.0,2.0,480.0
+Avatr,12,2024,56000.0,"Armenia, Yerevan",50.0,Hatchback,Electric,Automatic,Left,Gray,New,https://auto.am/offer/3029043,2.5,578,4,AWD 4x4,94.0,2.0,650.0
+Zeekr,001 ,2024,56000.0,Armenia,20.0,Sedan,Electric,Automatic,Left,Օther color,sell.condition-values.,https://auto.am/offer/3040387,2.5,784,4,AWD 4x4,100.0,1.0,705.0
+Tesla,Model X ,2020,55900.0,"Armenia, Yerevan",27200.0,SUV / Truck,Electric,Automatic,Left,Black,Good,https://auto.am/offer/2905128,2.5,403,4,AWD 4x4,100.0,2.0,510.0
+Mercedes-Benz,EQC ,2022,55500.0,Armenia,15000.0,SUV / Truck,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/2943697,4.0,408,8,AWD 4x4,300.0,2.0,431.0
+Audi,Q5 e-tron ,2022,55000.0,"Armenia, Yerevan",5000.0,SUV / Truck,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3031777,3.0,225,4,AWD 4x4,100.0,2.0,500.0
+Mercedes-Benz,EQC ,2020,55000.0,"Armenia, Yerevan",29000.0,SUV / Truck,Electric,Automatic,Left,Silver,Excellent,https://auto.am/offer/3019394,3.0,367,6,AWD 4x4,300.0,4.0,550.0
+Tesla,Model Y ,2021,55000.0,Armenia,6000.0,Wagon,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2862124,2.5,350,4,AWD 4x4,75.0,2.0,500.0
+Tesla,Model X ,2017,55000.0,"Armenia, Yerevan",123078.40000000001,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3024120,2.5,525,4,AWD 4x4,90.0,2.0,512.0
+Audi,e-tron ,2019,55000.0,"Armenia, Yerevan",29000.0,SUV / Truck,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3028438,2.0,409,4,AWD 4x4,300.0,2.0,350.0
+Tesla,Model Y ,2023,54000.0,"Armenia, Yerevan",2500.0,Sedan,Electric,Automatic,Left,Black,New,https://auto.am/offer/2990293,2.5,388,4,AWD 4x4,75.0,2.0,616.0
+Mercedes-Benz,EQC ,2021,54000.0,Armenia,60000.0,SUV / Truck,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2827567,4.0,408,6,AWD 4x4,80.0,4.0,479.0
+Volkswagen,iD.6 ,2023,53700.0,Armenia,10.0,SUV / Truck,Electric,Automatic,Left,Blue,Excellent,https://auto.am/offer/2868059,2.5,204,4,RWD,86.0,1.0,610.0
+Tesla,Model Y ,2022,53000.0,"Armenia, Yerevan",7000.0,SUV / Truck,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/2963802,2.5,465,4,AWD 4x4,80.0,2.0,500.0
+Tesla,Model X ,2018,53000.0,Armenia,120000.0,SUV / Truck,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2913397,2.5,304,4,AWD 4x4,100.0,4.0,375.0
+Ford,Mustang ,2022,52900.0,Armenia,8700.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3016559,1.5,385,3,AWD 4x4,70.0,2.0,500.0
+Jaguar,I-Pace ,2018,52000.0,"Armenia, Yerevan",33500.0,SUV / Truck,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3036586,3.0,300,6,AWD 4x4,90.0,2.0,480.0
+Tesla,Model Y ,2022,51000.0,"Armenia, Yerevan",14000.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3031840,2.5,455,4,AWD 4x4,78.0,2.0,475.0
+Tesla,Model Y ,2023,51000.0,"Armenia, Yerevan",1300.0,SUV / Truck,Electric,Automatic,Left,Gray,New,https://auto.am/offer/3035545,2.5,425,4,AWD 4x4,82.0,2.0,550.0
+BMW,i3 ,2022,46000.0,Armenia,150.0,Sedan,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2845977,2.0,387,4,AWD 4x4,125.0,4.0,612.0
+Volkswagen,iD.6 ,2022,50000.0,"Armenia, Yerevan",53.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2819323,2.5,204,4,RWD,84.0,1.0,550.0
+Leapmotor,T03 ,2023,14475.0,"Armenia, Kotayk",5700.0,Sedan,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3018207,2.5,200,4,AWD 4x4,41.0,2.0,300.0
+BMW,i3 ,2015,5600.0,"Armenia, Yerevan",112000.0,Hatchback,Electric,Automatic,Left,Black,Damaged,https://auto.am/offer/3023032,2.8,306,6,RWD,19.0,2.0,120.0
+Wuling,Golf Car ,2022,13750.0,"Armenia, Yerevan",11.0,Wagon,Electric,Automatic,Left,White,New,https://auto.am/offer/2972018,2.5,200,4,AWD 4x4,20.0,2.0,500.0
+Wuling,Golf Car ,2023,13375.0,"Armenia, Yerevan",11.0,Wagon,Electric,Automatic,Left,Black,New,https://auto.am/offer/3017890,2.5,200,4,AWD 4x4,20.0,2.0,500.0
+Tesla,Model X ,2017,49900.0,Armenia,72000.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2805125,2.5,772,4,AWD 4x4,100.0,2.0,512.0
+BMW,iX1 ,2023,49900.0,"Armenia, Yerevan",10000.0,SUV / Truck,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3018469,3.0,335,6,AWD 4x4,66.0,2.0,450.0
+Mercedes-Benz,EQC ,2020,49000.0,Armenia,33500.0,SUV / Truck,Electric,Automatic,Left,Silver,Excellent,https://auto.am/offer/3025929,3.0,367,6,AWD 4x4,300.0,4.0,550.0
+Tesla,Model X ,2017,49000.0,"Armenia, Yerevan",170.0,SUV / Truck,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3038574,2.5,525,4,AWD 4x4,100.0,2.0,525.0
+Mercedes-Benz,EQS ,2021,120000.0,"Armenia, Yerevan",13000.0,Hatchback,Electric,Automatic,Left,Silver,sell.condition-values.,https://auto.am/offer/3036774,4.0,408,6,AWD 4x4,108.0,1.0,600.0
+Jaguar,I-Pace ,2019,48000.0,"Armenia, Yerevan",20000.0,SUV / Truck,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3019400,2.5,249,4,AWD 4x4,294.0,4.0,480.0
+Audi,Q4 e-tron ,2022,47000.0,"Armenia, Yerevan",13000.0,SUV / Truck,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3038941,3.0,225,4,AWD 4x4,84.0,2.0,500.0
+Ford,Mustang ,2021,47000.0,"Armenia, Kotayk",18000.0,Wagon,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2997219,3.65,460,4,AWD 4x4,99.0,2.0,500.0
+Tesla,Model S ,2019,46500.0,"Armenia, Yerevan",95000.0,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/2982135,2.5,540,4,AWD 4x4,100.0,2.0,600.0
+Tesla,Model Y ,2023,46000.0,"Armenia, Yerevan",3500.0,SUV / Truck,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3040547,2.5,388,4,AWD 4x4,85.0,2.0,520.0
+Jaguar,I-Pace ,2018,46000.0,"Armenia, Yerevan",80000.0,SUV / Truck,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3039642,3.0,300,6,AWD 4x4,90.0,2.0,480.0
+Tesla,Model Y ,2022,46000.0,"Armenia, Yerevan",608.0,Hatchback,Electric,Automatic,Right,Gray,Excellent,https://auto.am/offer/3018247,2.5,534,4,AWD 4x4,393.0,2.0,380.0
+Tesla,Model Y ,2022,45500.0,"Armenia, Yerevan",9000.0,Wagon,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2985486,2.5,465,4,AWD 4x4,90.0,2.0,514.0
+Ford,Mustang ,2022,45000.0,"Armenia, Yerevan",22000.0,Wagon,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3029479,1.5,385,3,AWD 4x4,91.0,2.0,450.0
+Ford,Mach-e ,2021,45000.0,Armenia,3120.0,Wagon,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2993155,3.65,266,4,AWD 4x4,100.0,1.0,400.0
+Ford,Mach-e ,2021,45000.0,"Armenia, Shirak",45000.0,Hatchback,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3036050,3.65,362,4,AWD 4x4,99.0,1.0,500.0
+Tesla,Model Y ,2020,45000.0,"Armenia, Yerevan",43000.0,SUV / Truck,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/2972679,2.5,403,4,AWD 4x4,75.0,2.0,485.0
+Tesla,Model X ,2020,45000.0,"Armenia, Yerevan",115000.0,SUV / Truck,Electric,Automatic,Left,Blue,Excellent,https://auto.am/offer/3039889,2.5,403,4,AWD 4x4,100.0,2.0,470.0
+Zeekr,001 ,2023,45000.0,"Armenia, Yerevan",20.0,Sedan,Electric,Automatic,Left,Black,New,https://auto.am/offer/3006223,2.5,410,4,AWD 4x4,86.0,2.0,560.0
+Jaguar,I-Pace ,2018,45000.0,"Armenia, Yerevan",29000.0,SUV / Truck,Electric,Automatic,Left,Blue,Excellent,https://auto.am/offer/3034986,3.0,300,6,AWD 4x4,90.0,2.0,450.0
+Ford,Mustang ,2022,45000.0,"Armenia, Yerevan",22400.0,SUV / Truck,Electric,Automatic,Left,Silver,Excellent,https://auto.am/offer/3037608,1.5,290,3,RWD,99.0,2.0,610.0
+Mercedes-Benz,EQA ,2023,44900.0,"Armenia, Yerevan",9000.0,SUV / Truck,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3013142,2.5,288,4,AWD 4x4,140.0,2.0,450.0
+Tesla,Model 3 ,2023,44700.0,Armenia,4500.0,Sedan,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2961632,2.5,261,4,RWD,324.0,1.0,430.0
+BYD,Tang ,2024,44500.0,Armenia,20.0,SUV / Truck,Electric,Automatic,Left,Օther color,sell.condition-values.,https://auto.am/offer/3040375,2.5,218,4,FWD,380.0,1.0,635.0
+Tesla,Model Y ,2022,44500.0,Armenia,20000.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3025833,2.5,465,4,AWD 4x4,100.0,2.0,500.0
+Tesla,Model Y ,2022,44000.0,"Armenia, Yerevan",42800.0,Hatchback,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3035375,2.5,554,4,AWD 4x4,85.0,1.0,480.0
+Tesla,Model Y ,2020,44000.0,Armenia,40000.0,Wagon,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3037960,2.5,403,4,AWD 4x4,77.0,2.0,450.0
+Tesla,Model X ,2017,44000.0,"Armenia, Yerevan",78000.0,Wagon,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3032063,2.5,525,4,AWD 4x4,100.0,2.0,500.0
+Tesla,Model Y ,2022,44000.0,"Armenia, Yerevan",43200.0,Hatchback,Electric,Automatic,Left,White,Good,https://auto.am/offer/3033590,2.5,465,4,AWD 4x4,75.0,2.0,500.0
+Tesla,Model Y ,2022,44000.0,"Armenia, Yerevan",27200.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3025429,2.5,465,4,AWD 4x4,90.0,4.0,530.0
+Kia,EV6 ,2022,43900.0,Armenia,20800.0,SUV / Truck,Electric,Automatic,Left,Blue,Excellent,https://auto.am/offer/3040472,2.5,320,4,AWD 4x4,77.0,2.0,500.0
+Audi,Q2L e-tron ,2023,43700.0,Armenia,200.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2872239,4.0,204,4,RWD,38.0,2.0,560.0
+Audi,Q4 e-tron ,2023,43000.0,"Armenia, Yerevan",770.0,Hatchback,Electric,Automatic,Left,Gray,New,https://auto.am/offer/3040640,4.0,204,4,RWD,84.0,1.0,605.0
+Tesla,Model Y ,2022,43000.0,"Armenia, Yerevan",12500.0,Wagon,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3037539,2.5,465,4,AWD 4x4,82.0,2.0,500.0
+Tesla,Model X ,2018,43000.0,"Armenia, Yerevan",32000.0,SUV / Truck,Electric,Automatic,Left,White,Good,https://auto.am/offer/3003997,2.5,304,4,AWD 4x4,78.0,4.0,350.0
+BMW,iX3 ,2024,43000.0,"Armenia, Yerevan",17.0,SUV / Truck,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/2878308,2.5,200,4,AWD 4x4,85.0,2.0,500.0
+Tesla,Model Y ,2021,42900.0,"Armenia, Kotayk",67200.0,Wagon,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2951562,2.5,456,4,AWD 4x4,75.0,2.0,490.0
+Tesla,Model Y ,2020,42900.0,"Armenia, Kotayk",62400.0,Wagon,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2946137,2.5,456,4,AWD 4x4,75.0,2.0,510.0
+Xpeng,G9 ,2024,42500.0,"Armenia, Yerevan",15.0,SUV / Truck,Electric,Automatic,Left,Black,sell.condition-values.,https://auto.am/offer/3031225,2.5,200,4,AWD 4x4,88.0,2.0,500.0
+Tesla,Model Y ,2021,42000.0,"Armenia, Yerevan",19200.0,SUV / Truck,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2798907,2.5,350,4,AWD 4x4,82.0,2.0,500.0
+Tesla,Model Y ,2022,42000.0,"Armenia, Yerevan",19500.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3040711,2.5,465,4,AWD 4x4,82.0,2.0,500.0
+Tesla,Model Y ,2021,42000.0,"Armenia, Yerevan",34000.0,SUV / Truck,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3009595,2.5,350,4,AWD 4x4,82.0,2.0,500.0
+Tesla,Model Y ,2021,42000.0,"Armenia, Yerevan",30000.0,Hatchback,Electric,Automatic,Right,Gray,Excellent,https://auto.am/offer/3018262,2.5,350,4,AWD 4x4,100.0,2.0,450.0
+Tesla,Model Y ,2021,41500.0,"Armenia, Yerevan",33600.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3028230,2.5,350,4,AWD 4x4,72.0,2.0,500.0
+Tesla,Model Y ,2022,41500.0,"Armenia, Yerevan",7840.0,SUV / Truck,Electric,Automatic,Left,Blue,New,https://auto.am/offer/2989189,2.5,465,4,AWD 4x4,90.0,2.0,550.0
+Zeekr,007 ,2024,41000.0,"Armenia, Yerevan",50.0,Sedan,Electric,Automatic,Left,White,New,https://auto.am/offer/3027919,2.5,784,4,AWD 4x4,100.0,2.0,669.0
+Mercedes-Benz,EQA ,2021,41000.0,Armenia,23000.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3033762,4.0,408,6,AWD 4x4,140.0,1.0,450.0
+Volkswagen,iD.6 ,2023,40700.0,Armenia,60.0,SUV / Truck,Electric,Automatic,Left,Blue,Excellent,https://auto.am/offer/2914947,2.5,204,4,RWD,86.0,1.0,610.0
+Tesla,Model Y ,2021,40500.0,"Armenia, Yerevan",48960.0,SUV / Truck,Electric,Automatic,Left,Blue,Excellent,https://auto.am/offer/3037422,2.5,350,4,AWD 4x4,81.0,2.0,326.0
+Tesla,Model Y ,2021,40000.0,"Armenia, Yerevan",32000.0,Wagon,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3024758,2.5,350,4,AWD 4x4,75.0,2.0,500.0
+Tesla,Model Y ,2020,40000.0,"Armenia, Yerevan",51000.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3039324,2.5,403,4,AWD 4x4,100.0,2.0,470.0
+Tesla,Model X ,2017,40000.0,"Armenia, Yerevan",44000.0,Wagon,Electric,Automatic,Left,Cherry,Good,https://auto.am/offer/2902530,2.5,525,4,AWD 4x4,239.0,2.0,512.0
+Tesla,Model Y ,2021,40000.0,"Armenia, Yerevan",47000.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3038999,2.5,350,4,AWD 4x4,75.0,2.0,520.0
+Tesla,Model S ,2018,40000.0,"Armenia, Ararat",660000.0,Hatchback,Electric,Automatic,Left,Black,Good,https://auto.am/offer/3039816,2.5,424,4,AWD 4x4,75.0,4.0,470.0
+Tesla,Model Y ,2022,40000.0,"Armenia, Yerevan",35000.0,SUV / Truck,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3033576,2.5,465,4,AWD 4x4,82.0,2.0,500.0
+Tesla,Model Y ,2021,40000.0,"Armenia, Yerevan",27000.0,Hatchback,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3033112,2.5,350,4,AWD 4x4,75.0,2.0,550.0
+Tesla,Model S ,2017,40000.0,Armenia,64000.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2739566,2.5,333,4,AWD 4x4,75.0,1.0,375.0
+Changan,E-Star ,2023,12250.0,"Armenia, Yerevan",20.0,Hatchback,Electric,Automatic,Left,White,New,https://auto.am/offer/3016900,2.0,74,4,FWD,32.0,1.0,310.0
+Nissan,Leaf ,2013,4800.0,"Armenia, Kotayk",150000.0,Hatchback,Electric,Automatic,Left,Red,Good,https://auto.am/offer/3038876,1.6,333,4,AWD 4x4,70.0,2.0,80.0
+Nissan,Leaf ,2011,4800.0,"Armenia, Kotayk",177000.0,Hatchback,Electric,Automatic,Left,Red,Excellent,https://auto.am/offer/3038920,1.6,164,4,AWD 4x4,75.0,2.0,80.0
+Changan,E-Star ,2023,11500.0,"Armenia, Kotayk",25.0,Hatchback,Electric,Automatic,Left,White,New,https://auto.am/offer/3031254,2.0,75,4,FWD,32.0,1.0,310.0
+Wuling,Golf Car ,2023,11125.0,"Armenia, Yerevan",11.0,Wagon,Electric,Automatic,Left,White,New,https://auto.am/offer/3017879,2.5,200,4,AWD 4x4,20.0,2.0,500.0
+Polestar,2,2021,39999.0,"Armenia, Yerevan",15400.0,Sedan,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3036379,2.5,200,4,AWD 4x4,408.0,2.0,450.0
+Zeekr,001 ,2023,39700.0,"Armenia, Yerevan",10.0,Sedan,Electric,Automatic,Left,White,New,https://auto.am/offer/3024774,2.5,280,4,AWD 4x4,400.0,2.0,580.0
+Tesla,Model 3 ,2022,39500.0,"Armenia, Yerevan",3200.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2977010,2.5,296,4,AWD 4x4,72.0,1.0,460.0
+Tesla,Model S ,2018,39000.0,"Armenia, Yerevan",67000.0,Sedan,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2984164,2.5,424,4,AWD 4x4,75.0,2.0,390.0
+Tesla,Model S ,2019,39000.0,"Armenia, Yerevan",140800.0,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3039325,2.5,540,4,AWD 4x4,100.0,2.0,540.0
+Tesla,Model Y ,2021,39000.0,"Armenia, Yerevan",31000.0,SUV / Truck,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3035500,2.5,350,4,AWD 4x4,75.0,2.0,400.0
+Volkswagen,ID.4 ,2022,38900.0,Armenia,20.0,SUV / Truck,Electric,Automatic,Left,Silver,Excellent,https://auto.am/offer/2792375,2.5,204,4,RWD,84.0,2.0,500.0
+Ford,Mach-e ,2022,38500.0,"Armenia, Yerevan",18000.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3025455,1.5,238,3,AWD 4x4,100.0,2.0,480.0
+Tesla,Model S ,2018,38000.0,"Armenia, Ararat",96000.0,Sedan,Electric,Automatic,Left,Blue,Excellent,https://auto.am/offer/3023891,2.5,424,4,AWD 4x4,75.0,2.0,400.0
+Tesla,Model Y ,2020,38000.0,"Armenia, Yerevan",37900.0,SUV / Truck,Electric,Automatic,Left,Blue,Good,https://auto.am/offer/3031036,2.5,351,4,AWD 4x4,378.0,2.0,635.0
+Tesla,Model Y ,2022,37900.0,"Armenia, Yerevan",28000.0,SUV / Truck,Electric,Automatic,Left,Օther color,Excellent,https://auto.am/offer/3029510,2.5,465,4,AWD 4x4,543.0,4.0,490.0
+Tesla,Model Y ,2022,37700.0,"Armenia, Yerevan",25000.0,Wagon,Electric,Automatic,Left,Red,Excellent,https://auto.am/offer/3034881,2.5,465,4,AWD 4x4,75.0,4.0,500.0
+BMW,i3 ,2024,37500.0,"Armenia, Armavir",10.0,Sedan,Electric,Automatic,Left,Black,New,https://auto.am/offer/3033087,2.5,200,4,AWD 4x4,75.0,1.0,515.0
+Tesla,Model Y ,2022,37500.0,"Armenia, Yerevan",20000.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3027090,2.5,465,4,AWD 4x4,75.0,4.0,500.0
+Tesla,Model 3 ,2022,37500.0,Armenia,18000.0,Sedan,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3033473,2.5,296,4,AWD 4x4,85.0,1.0,500.0
+Volkswagen,iD.6 ,2024,37000.0,"Armenia, Yerevan",17.0,SUV / Truck,Electric,Automatic,Left,Blue,Excellent,https://auto.am/offer/2877113,2.5,258,4,AWD 4x4,85.0,1.0,600.0
+Tesla,Model 3 ,2021,37000.0,"Armenia, Yerevan",10000.0,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3034037,2.5,271,4,RWD,75.0,2.0,580.0
+Tesla,Model 3 ,2022,37000.0,"Armenia, Yerevan",25000.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3019405,2.5,296,4,AWD 4x4,366.0,4.0,500.0
+Toyota,Bz4X ,2024,37000.0,"Armenia, Yerevan",700.0,Wagon,Electric,Automatic,Left,White,New,https://auto.am/offer/3039086,2.5,200,4,FWD,70.0,1.0,615.0
+Tesla,Model 3 ,2022,37000.0,Armenia,19000.0,Sedan,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3038882,2.5,296,4,AWD 4x4,80.0,1.0,460.0
+Tesla,Model S ,2017,37000.0,Armenia,54000.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3030827,2.5,333,4,AWD 4x4,75.0,1.0,350.0
+Zeekr,X ,2024,37000.0,"Armenia, Yerevan",50.0,Hatchback,Electric,Automatic,Left,Pink,Excellent,https://auto.am/offer/3027867,2.5,782,4,AWD 4x4,66.0,2.0,512.0
+BYD,Song  L ,2024,36900.0,"Armenia, Yerevan",19.0,SUV / Truck,Electric,Automatic,Left,Gray,sell.condition-values.,https://auto.am/offer/3029379,2.5,313,4,RWD,87.0,1.0,662.0
+Tesla,Model 3 ,2023,36900.0,"Armenia, Yerevan",592.0,Sedan,Electric,Automatic,Left,White,New,https://auto.am/offer/3013844,2.5,261,4,RWD,1000.0,1.0,1000.0
+Honda,M-NV ,2022,36700.0,Armenia,20.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2791616,2.0,199,4,AWD 4x4,68.0,2.0,515.0
+BYD,Song Plus ,2023,36500.0,Armenia,10.0,SUV / Truck,Electric,Automatic,Left,Gray,New,https://auto.am/offer/3038083,2.5,218,4,FWD,87.0,1.0,605.0
+Tesla,Model 3 ,2022,36500.0,"Armenia, Yerevan",19000.0,Sedan,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3040499,2.5,296,4,AWD 4x4,85.0,1.0,507.0
+Tesla,Model 3 ,2022,36500.0,"Armenia, Yerevan",32000.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2895021,2.5,296,4,RWD,57.0,1.0,380.0
+Tesla,Model Y ,2020,36000.0,"Armenia, Yerevan",25000.0,Wagon,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2988464,2.5,403,4,AWD 4x4,75.0,2.0,500.0
+Zeekr,X ,2023,36000.0,"Armenia, Kotayk",30.0,SUV / Truck,Electric,Automatic,Left,White,New,https://auto.am/offer/3027588,2.5,428,4,AWD 4x4,66.0,2.0,512.0
+Tesla,Model Y ,2022,36000.0,"Armenia, Yerevan",20000.0,Wagon,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3034877,2.5,465,4,AWD 4x4,75.0,4.0,510.0
+Tesla,Model Y ,2021,36000.0,"Armenia, Yerevan",59000.0,Wagon,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3018601,2.5,350,4,AWD 4x4,60.0,2.0,385.0
+Volkswagen,iD.6 ,2022,35000.0,"Armenia, Yerevan",24000.0,SUV / Truck,Electric,Automatic,Left,Blue,Excellent,https://auto.am/offer/3033387,2.5,204,4,RWD,84.0,1.0,550.0
+Tesla,Model 3 ,2023,35000.0,"Armenia, Yerevan",6400.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3024400,2.5,271,4,RWD,100.0,1.0,4000.0
+Tesla,Model S ,2017,35000.0,Armenia,79000.0,Sedan,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2789492,2.5,333,4,RWD,280.0,1.0,375.0
+Volkswagen,iD.6 ,2022,35000.0,"Armenia, Yerevan",30.0,SUV / Truck,Electric,Automatic,Left,White,New,https://auto.am/offer/3020180,2.5,204,4,RWD,85.0,1.0,600.0
+Volkswagen,iD.6 ,2023,35000.0,"Armenia, Yerevan",15.0,SUV / Truck,Electric,Automatic,Left,White,New,https://auto.am/offer/3011565,2.5,204,4,RWD,156.0,1.0,610.0
+Tesla,Model 3 ,2021,35000.0,Armenia,15000.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2906759,2.5,271,4,RWD,60.0,1.0,400.0
+Tesla,Model S ,2018,35000.0,"Armenia, Yerevan",60800.0,Hatchback,Electric,Automatic,Left,Silver,Excellent,https://auto.am/offer/3028291,2.5,333,4,AWD 4x4,75.0,2.0,415.0
+Tesla,Model Y ,2020,35000.0,"Armenia, Yerevan",32000.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2990122,2.5,403,4,AWD 4x4,80.0,2.0,485.0
+Volkswagen,iD.6 ,2023,35000.0,"Armenia, Yerevan",23.0,SUV / Truck,Electric,Automatic,Left,White,New,https://auto.am/offer/2985740,2.5,204,4,RWD,156.0,1.0,610.0
+Tesla,Model 3 ,2023,35000.0,"Armenia, Yerevan",4500.0,Sedan,Electric,Automatic,Left,Beige,Excellent,https://auto.am/offer/3035781,2.5,261,4,RWD,75.0,1.0,430.0
+Leapmotor,C11 ,2023,34900.0,"Armenia, Yerevan",50.0,SUV / Truck,Electric,Automatic,Left,White,New,https://auto.am/offer/3006398,2.5,200,4,AWD 4x4,69.0,2.0,500.0
+Volkswagen,ID.4 ,2023,34700.0,"Armenia, Yerevan",2100.0,Wagon,Electric,Automatic,Left,Black,New,https://auto.am/offer/3039323,2.5,204,4,RWD,83.0,1.0,550.0
+Volkswagen,iD.6 ,2023,34500.0,"Armenia, Yerevan",200.0,Wagon,Electric,Automatic,Left,White,New,https://auto.am/offer/2970675,2.5,204,4,RWD,84.0,1.0,550.0
+Volkswagen,iD.6 ,2023,34000.0,"Armenia, Yerevan",20.0,SUV / Truck,Electric,Automatic,Left,Blue,New,https://auto.am/offer/3011588,2.5,204,4,RWD,156.0,1.0,610.0
+Volkswagen,iD.6 ,2023,34000.0,"Armenia, Yerevan",17.0,Wagon,Electric,Automatic,Left,Blue,sell.condition-values.,https://auto.am/offer/3026273,2.5,204,4,RWD,86.0,1.0,610.0
+Tesla,Model Y ,2022,34000.0,"Armenia, Yerevan",48000.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3037599,2.5,351,4,AWD 4x4,75.0,2.0,478.0
+Volkswagen,iD.6 ,2023,34000.0,"Armenia, Yerevan",17.0,Wagon,Electric,Automatic,Left,Blue,New,https://auto.am/offer/3026094,2.5,204,4,RWD,86.0,1.0,600.0
+Volkswagen,iD.6 ,2023,34000.0,"Armenia, Yerevan",15.0,Wagon,Electric,Automatic,Left,Blue,sell.condition-values.,https://auto.am/offer/3023656,2.5,204,4,RWD,86.0,1.0,600.0
+Tesla,Model S ,2018,34000.0,"Armenia, Yerevan",71000.0,Sedan,Electric,Automatic,Left,White,Good,https://auto.am/offer/3037468,2.5,424,4,AWD 4x4,75.0,2.0,400.0
+Volkswagen,iD.6 ,2023,33800.0,"Armenia, Yerevan",10.0,SUV / Truck,Electric,Automatic,Left,Blue,New,https://auto.am/offer/2990619,2.5,204,4,RWD,86.0,1.0,610.0
+Tesla,Model Y ,2021,33700.0,"Armenia, Yerevan",59000.0,SUV / Truck,Electric,Automatic,Left,Blue,Good,https://auto.am/offer/2989311,2.5,350,4,AWD 4x4,75.0,2.0,500.0
+Honda,M-NV ,2022,33700.0,Armenia,4000.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2847618,2.0,199,4,AWD 4x4,68.0,2.0,515.0
+BYD,Song Plus ,2024,33300.0,"Armenia, Yerevan",12.0,SUV / Truck,Electric,Automatic,Left,Gray,New,https://auto.am/offer/3037279,2.5,218,4,FWD,87.0,1.0,605.0
+Toyota,Bz4X ,2023,33000.0,"Armenia, Yerevan",21.0,SUV / Truck,Electric,Automatic,Left,Black,New,https://auto.am/offer/2963437,2.65,218,6,AWD 4x4,66.0,4.0,560.0
+Tesla,Model 3 ,2021,33000.0,Armenia,26400.0,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3038433,2.5,271,4,RWD,70.0,1.0,395.0
+Tesla,Model Y ,2021,33000.0,"Armenia, Yerevan",58000.0,Wagon,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3027456,2.5,351,4,AWD 4x4,75.0,2.0,520.0
+Tesla,Model 3 ,2021,33000.0,"Armenia, Yerevan",41000.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3025395,2.5,278,4,RWD,55.0,1.0,395.0
+Tesla,Model 3 ,2023,33000.0,"Armenia, Lori",4000.0,Sedan,Electric,Automatic,Left,Օther color,Excellent,https://auto.am/offer/3036746,2.5,261,4,RWD,777.0,4.0,500.0
+Tesla,Model 3 ,2023,33000.0,"Armenia, Yerevan",9000.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3013703,2.5,261,4,RWD,1000.0,1.0,430.0
+Toyota,Bz4X ,2023,33000.0,"Armenia, Yerevan",33.0,SUV / Truck,Electric,Automatic,Left,Black,New,https://auto.am/offer/2957050,2.65,218,6,AWD 4x4,66.0,4.0,560.0
+Tesla,Model 3 ,2021,33000.0,Armenia,920.0,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3034109,2.5,271,4,RWD,75.0,2.0,380.0
+Tesla,Model Y ,2021,33000.0,"Armenia, Yerevan",27200.0,SUV / Truck,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/2948055,2.5,351,4,AWD 4x4,75.0,2.0,500.0
+Volkswagen,ID.4 ,2024,32900.0,"Armenia, Yerevan",12.0,SUV / Truck,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2903160,2.5,313,4,AWD 4x4,85.0,2.0,600.0
+Volkswagen,ID.4 ,2023,32700.0,Armenia,100.0,SUV / Truck,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2882894,2.5,204,4,RWD,77.0,1.0,550.0
+Toyota,Bz4X ,2023,32500.0,"Armenia, Yerevan",20.0,SUV / Truck,Electric,Automatic,Left,White,sell.condition-values.,https://auto.am/offer/3008898,2.65,214,6,AWD 4x4,60.0,2.0,560.0
+BYD,Song Plus ,2023,32200.0,"Armenia, Yerevan",30.0,Wagon,Electric,Automatic,Left,Black,New,https://auto.am/offer/3020552,2.5,218,4,FWD,87.0,1.0,610.0
+Volkswagen,ID.4 ,2022,32000.0,"Armenia, Yerevan",370.0,Wagon,Electric,Automatic,Left,Yellow,Excellent,https://auto.am/offer/2820739,2.5,204,4,RWD,84.0,2.0,500.0
+Tesla,Model Y ,2022,32000.0,"Armenia, Yerevan",16000.0,SUV / Truck,Electric,Automatic,Left,Black,Damaged,https://auto.am/offer/3010307,2.5,465,4,AWD 4x4,75.0,2.0,450.0
+Tesla,Model 3 ,2023,32000.0,"Armenia, Yerevan",1600.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3036430,2.5,261,4,RWD,55.0,1.0,430.0
+Tesla,Model 3 ,2021,32000.0,"Armenia, Yerevan",44000.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3015573,2.5,271,4,RWD,55.0,1.0,395.0
+Volkswagen,iD.6 ,2022,32000.0,"Armenia, Yerevan",25000.0,SUV / Truck,Electric,Automatic,Left,Blue,Excellent,https://auto.am/offer/3037597,2.5,204,4,RWD,150.0,1.0,450.0
+Volkswagen,ID.4 ,2022,32000.0,"Armenia, Yerevan",6700.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2994930,2.5,204,4,RWD,84.0,2.0,500.0
+Kia,EV5 ,2024,31900.0,"Armenia, Yerevan",55.0,SUV / Truck,Electric,Automatic,Left,White,New,https://auto.am/offer/3024942,2.5,218,4,FWD,64.0,1.0,530.0
+Volkswagen,ID.4 ,2022,31500.0,"Armenia, Yerevan",100.0,Wagon,Electric,Automatic,Left,White,sell.condition-values.,https://auto.am/offer/3037839,2.5,204,4,RWD,84.0,2.0,500.0
+Tesla,Model Y ,2021,31000.0,"Armenia, Yerevan",35000.0,Wagon,Electric,Automatic,Left,Blue,Excellent,https://auto.am/offer/3040590,2.5,350,4,AWD 4x4,80.0,2.0,500.0
+Volkswagen,iD.6 ,2022,31000.0,"Armenia, Yerevan",22000.0,Hatchback,Electric,Automatic,Left,Blue,Excellent,https://auto.am/offer/3035014,2.5,204,4,RWD,210.0,2.0,450.0
+Tesla,Model 3 ,2019,31000.0,"Armenia, Lori",52000.0,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3030173,2.5,269,4,AWD 4x4,80.0,2.0,500.0
+Tesla,Model S ,2013,31000.0,"Armenia, Yerevan",174400.0,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3000751,2.5,306,4,RWD,85.0,1.0,450.0
+Tesla,Model 3 ,2023,30900.0,"Armenia, Yerevan",28800.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3001523,2.5,261,4,RWD,60.0,1.0,425.0
+Toyota,Bz4X ,2023,30900.0,"Armenia, Yerevan",1800.0,Wagon,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3038334,2.5,207,4,FWD,71.0,3.0,560.0
+Tesla,Model 3 ,2020,30500.0,"Armenia, Yerevan",42000.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2966987,2.5,258,4,RWD,56.0,1.0,370.0
+Tesla,Model 3 ,2022,30500.0,Armenia,23000.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3032998,2.5,296,4,AWD 4x4,58.0,1.0,460.0
+Tesla,Model S ,2015,30500.0,"Armenia, Yerevan",130000.0,Sedan,Electric,Automatic,Left,Silver,Excellent,https://auto.am/offer/3005071,2.5,401,4,AWD 4x4,85.0,2.0,450.0
+Volkswagen,ID.4 ,2023,30100.0,"Armenia, Yerevan",24.0,SUV / Truck,Electric,Automatic,Left,White,New,https://auto.am/offer/3037677,2.5,204,4,RWD,150.0,1.0,550.0
+Volkswagen,ID.4 ,2023,30000.0,"Armenia, Yerevan",30.0,Wagon,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2959499,2.5,204,4,RWD,84.0,1.0,607.0
+Tesla,Model 3 ,2019,30000.0,"Armenia, Yerevan",65000.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3014076,2.5,351,4,AWD 4x4,75.0,2.0,480.0
+Dongfeng,M 5 EV ,2022,30000.0,"Armenia, Yerevan",100.0,Minivan / Minibus,Electric,Automatic,Left,White,New,https://auto.am/offer/3036575,2.5,140,4,AWD 4x4,70.0,2.0,500.0
+Tesla,Model 3 ,2020,30000.0,"Armenia, Yerevan",25600.0,Sedan,Electric,Automatic,Left,White,Good,https://auto.am/offer/2755615,2.5,260,4,RWD,50.0,1.0,400.0
+Tesla,Model Y ,2021,30000.0,"Armenia, Yerevan",32000.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3015132,2.5,350,4,AWD 4x4,75.0,2.0,500.0
+Tesla,Model S ,2016,30000.0,"Armenia, Yerevan",230000.0,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3036512,2.5,200,4,AWD 4x4,311.0,2.0,500.0
+Tesla,Model 3 ,2020,30000.0,"Armenia, Yerevan",40000.0,Hatchback,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2986539,2.5,260,4,RWD,60.0,1.0,393.0
+Volkswagen,iD.6 ,2022,30000.0,"Armenia, Yerevan",17000.0,Wagon,Electric,Automatic,Left,Blue,New,https://auto.am/offer/3039647,2.5,204,4,RWD,12.0,2.0,550.0
+Tesla,Model 3 ,2019,30000.0,"Armenia, Yerevan",56000.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3028919,2.5,269,4,RWD,68.0,1.0,410.0
+BYD,Han EV ,2024,30000.0,"Armenia, Yerevan",20.0,Sedan,Electric,Automatic,Left,Silver,Excellent,https://auto.am/offer/2644166,2.5,218,4,FWD,85.0,2.0,600.0
+Kia,EV6 ,2023,30000.0,"Armenia, Yerevan",15.0,SUV / Truck,Electric,Automatic,Left,Blue,New,https://auto.am/offer/3010064,1.6,147,4,AWD 4x4,64.0,2.0,530.0
+Tesla,Model 3 ,2020,29900.0,"Armenia, Yerevan",67000.0,Sedan,Electric,Automatic,Left,Red,Excellent,https://auto.am/offer/3012668,2.5,260,4,RWD,54.0,2.0,410.0
+Volkswagen,ID.4 ,2021,29900.0,"Armenia, Yerevan",30000.0,Wagon,Electric,Automatic,Left,Gray,Good,https://auto.am/offer/3039446,2.5,136,4,RWD,84.0,1.0,500.0
+Tesla,Model 3 ,2023,29900.0,"Armenia, Kotayk",432.0,Sedan,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2976749,2.5,260,4,RWD,62.0,1.0,420.0
+Tesla,Model 3 ,2019,29900.0,"Armenia, Yerevan",90000.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2832800,2.5,258,4,RWD,55.0,2.0,350.0
+Honda,e:NS1 ,2022,29900.0,"Armenia, Yerevan",3600.0,Sedan,Electric,Automatic,Left,Black,Good,https://auto.am/offer/3039660,1.5,193,4,FWD,75.0,2.0,515.0
+Tesla,Model S ,2017,29900.0,Armenia,96000.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2804793,2.5,333,4,AWD 4x4,75.0,1.0,375.0
+Tesla,Model S ,2018,29900.0,"Armenia, Kotayk",116000.0,Hatchback,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3038870,2.5,516,4,AWD 4x4,75.0,2.0,360.0
+Tesla,Model 3 ,2021,29900.0,"Armenia, Kotayk",21600.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2976759,2.5,258,4,RWD,54.0,1.0,380.0
+Volkswagen,ID.4 ,2023,29800.0,"Armenia, Yerevan",55.0,Wagon,Electric,Automatic,Left,White,New,https://auto.am/offer/2970592,2.5,204,4,RWD,84.0,1.0,550.0
+Tesla,Model 3 ,2019,29500.0,"Armenia, Yerevan",76800.0,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3024140,2.5,269,4,AWD 4x4,75.0,2.0,48000.0
+Volkswagen,ID.4 ,2024,29500.0,Armenia,10.0,SUV / Truck,Electric,Automatic,Left,Օther color,sell.condition-values.,https://auto.am/offer/3040360,2.5,258,4,AWD 4x4,150.0,1.0,600.0
+Volkswagen,ID.4 ,2021,29400.0,"Armenia, Yerevan",10000.0,Wagon,Electric,Automatic,Left,Blue,Excellent,https://auto.am/offer/2929564,2.5,136,4,RWD,84.0,1.0,550.0
+Volkswagen,iD.6 ,2024,29000.0,"Armenia, Yerevan",10.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2783386,2.5,258,4,AWD 4x4,85.0,1.0,600.0
+Mercedes-Benz,EQB ,2023,29000.0,"Armenia, Yerevan",700.0,SUV / Truck,Electric,Automatic,Left,Gray,New,https://auto.am/offer/3035037,2.5,288,4,AWD 4x4,250.0,1.0,380.0
+Tesla,Model 3 ,2022,29000.0,"Armenia, Yerevan",32000.0,Sedan,Electric,Automatic,Left,Blue,Excellent,https://auto.am/offer/2996249,2.5,296,4,AWD 4x4,60.0,1.0,420.0
+Tesla,Model 3 ,2021,28900.0,"Armenia, Yerevan",36800.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3026965,2.5,271,4,RWD,54.0,1.0,390.0
+Toyota,Bz4X ,2023,28600.0,"Armenia, Kotayk",700.0,SUV / Truck,Electric,Automatic,Left,White,sell.condition-values.,https://auto.am/offer/3036986,2.65,216,6,AWD 4x4,88.0,3.0,617.0
+Volkswagen,ID.4 ,2022,28500.0,"Armenia, Yerevan",20.0,Wagon,Electric,Automatic,Left,White,New,https://auto.am/offer/2966892,2.5,204,4,RWD,84.0,2.0,600.0
+Volkswagen,ID.4 ,2021,28500.0,Armenia,76.0,SUV / Truck,Electric,Automatic,Left,Blue,Excellent,https://auto.am/offer/2802707,2.5,136,4,RWD,84.0,1.0,550.0
+Volkswagen,ID.4 ,2023,28500.0,Armenia,4800.0,Wagon,Electric,Automatic,Left,Gray,New,https://auto.am/offer/3027046,2.5,204,4,RWD,86.0,2.0,530.0
+Tesla,Model Y ,2023,28500.0,"Armenia, Yerevan",198.4,SUV / Truck,Electric,Automatic,Left,Blue,New,https://auto.am/offer/3035528,2.5,351,4,AWD 4x4,77.0,2.0,560.0
+Tesla,Model 3 ,2020,28500.0,"Armenia, Yerevan",54500.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3037262,2.5,263,4,RWD,55.0,1.0,380.0
+Toyota,Izoa ,2022,28500.0,Armenia,6000.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3039218,2.5,203,4,AWD 4x4,54.0,2.0,500.0
+Tesla,Model 3 ,2018,28000.0,"Armenia, Yerevan",104000.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2855981,2.5,258,4,RWD,75.0,1.0,480.0
+Volkswagen,ID.4 ,2022,28000.0,"Armenia, Yerevan",10.0,SUV / Truck,Electric,Automatic,Left,Gray,sell.condition-values.,https://auto.am/offer/3039724,2.5,204,4,RWD,62.0,2.0,500.0
+BYD,Song Plus ,2024,28000.0,Armenia,10.0,Wagon,Electric,Automatic,Left,Օther color,sell.condition-values.,https://auto.am/offer/3040307,2.5,218,4,RWD,87.0,1.0,605.0
+BYD,Song Plus ,2024,28000.0,"Armenia, Yerevan",13.0,SUV / Truck,Electric,Automatic,Left,Gray,New,https://auto.am/offer/2978436,2.5,218,4,FWD,87.0,2.0,605.0
+Volkswagen,ID.4 ,2024,28000.0,"Armenia, Yerevan",59.0,SUV / Truck,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2833466,2.5,204,4,RWD,85.0,1.0,600.0
+BYD,Song Plus ,2024,28000.0,"Armenia, Yerevan",50.0,SUV / Truck,Electric,Automatic,Left,Gray,New,https://auto.am/offer/2994462,2.5,218,4,FWD,87.0,1.0,605.0
+Tesla,Model 3 ,2020,28000.0,"Armenia, Yerevan",44400.0,Sedan,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2966097,2.5,260,4,RWD,54.0,1.0,400.0
+Tesla,Model S ,2017,27900.0,"Armenia, Yerevan",83200.0,Hatchback,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/2968854,2.5,333,4,AWD 4x4,75.0,1.0,400.0
+Mitsubishi,Outlander ,2018,27800.0,"Armenia, Yerevan",52320.0,SUV / Truck,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/2834182,2.4,166,4,AWD 4x4,12.0,2.0,500.0
+Volkswagen,ID.4 ,2022,27500.0,"Armenia, Yerevan",100.0,SUV / Truck,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2835293,2.5,204,4,RWD,84.0,2.0,500.0
+Audi,Q2L e-tron ,2021,24840.0,"Armenia, Yerevan",17000.0,Wagon,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3036903,3.5,507,6,AWD 4x4,44.0,1.0,295.0
+Tesla,Model 3 ,2016,27000.0,"Armenia, Yerevan",100000.0,Hatchback,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3035250,2.5,200,4,AWD 4x4,75.0,2.0,480.0
+Tesla,Model 3 ,2020,27000.0,Armenia,50000.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3036772,2.5,260,4,RWD,50.0,1.0,350.0
+Volkswagen,ID.4 ,2022,27000.0,"Armenia, Yerevan",10.0,SUV / Truck,Electric,Automatic,Left,Red,New,https://auto.am/offer/3026436,2.5,204,4,RWD,59.0,2.0,10.0
+Tesla,Model 3 ,2022,27000.0,"Armenia, Yerevan",33000.0,Sedan,Electric,Automatic,Left,Blue,Excellent,https://auto.am/offer/3023620,2.5,296,4,AWD 4x4,60.0,1.0,420.0
+Volkswagen,ID.4 ,2023,27000.0,"Armenia, Yerevan",19.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2800451,2.5,204,4,RWD,85.0,1.0,550.0
+Volkswagen,ID.4 ,2021,26800.0,"Armenia, Armavir",11000.0,Wagon,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3035464,2.5,136,4,RWD,150.0,1.0,600.0
+Toyota,Bz3 ,2023,26500.0,Armenia,25.0,Sedan,Electric,Automatic,Left,White,New,https://auto.am/offer/3016732,2.5,204,4,FWD,50.0,1.0,517.0
+Volkswagen,ID.4 ,2022,26300.0,"Armenia, Yerevan",30000.0,Wagon,Electric,Automatic,Left,Silver,Excellent,https://auto.am/offer/2945427,2.5,204,4,RWD,1.0,2.0,450.0
+Honda,e:NS1 ,2023,26000.0,"Armenia, Armavir",2400.0,Wagon,Electric,Automatic,Left,White,New,https://auto.am/offer/3039192,1.5,204,4,FWD,68.0,1.0,510.0
+Audi,Q2L e-tron ,2022,26000.0,"Armenia, Yerevan",30000.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2803437,3.0,136,4,FWD,44.0,2.0,500.0
+Volkswagen,ID.4 ,2022,26000.0,"Armenia, Yerevan",13000.0,Wagon,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3026232,2.5,204,4,RWD,84.0,2.0,510.0
+Toyota,Bz4X ,2023,26000.0,"Armenia, Yerevan",11.0,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/2878313,2.5,216,4,AWD 4x4,71.0,2.0,615.0
+Tesla,Model S ,2014,25900.0,Armenia,81000.0,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/2957291,2.5,200,4,AWD 4x4,270.0,1.0,350.0
+Tesla,Model 3 ,2020,25900.0,"Armenia, Yerevan",27000.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3025392,2.5,201,4,RWD,50.0,1.0,410.0
+Mitsubishi,Airtrek ,2022,25700.0,"Armenia, Yerevan",16500.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2948880,2.5,224,4,FWD,72.0,1.0,500.0
+Volkswagen,ID.4 ,2022,25500.0,"Armenia, Yerevan",4500.0,Wagon,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3024131,2.5,204,4,RWD,57.0,2.0,400.0
+Honda,e:NS1 ,2023,25500.0,"Armenia, Kotayk",30.0,SUV / Truck,Electric,Automatic,Left,White,New,https://auto.am/offer/2986758,1.5,204,4,FWD,68.0,1.0,510.0
+Honda,e:NP1 ,2023,25500.0,"Armenia, Yerevan",2602.0,SUV / Truck,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3029867,1.5,204,4,FWD,68.0,4.0,510.0
+Tesla,Model 3 ,2018,25400.0,"Armenia, Yerevan",110000.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2967594,2.5,304,4,AWD 4x4,75.0,1.0,450.0
+Toyota,Bz3 ,2023,25200.0,"Armenia, Kotayk",2000.0,Sedan,Electric,Automatic,Left,Silver,sell.condition-values.,https://auto.am/offer/3036994,2.5,204,4,FWD,88.0,1.0,516.0
+Tesla,Model S ,2013,25000.0,"Armenia, Yerevan",174000.0,Hatchback,Electric,Automatic,Left,Blue,Good,https://auto.am/offer/3016936,2.5,306,4,RWD,60.0,1.0,330.0
+Tesla,Model 3 ,2021,25000.0,"Armenia, Yerevan",32000.0,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3035004,2.5,271,4,RWD,75.0,1.0,395.0
+Honda,e:NS1 ,2023,25000.0,"Armenia, Yerevan",10.0,Wagon,Electric,Automatic,Left,White,sell.condition-values.,https://auto.am/offer/3007856,1.5,204,4,FWD,66.0,1.0,510.0
+Tesla,Model 3 ,2018,25000.0,"Armenia, Yerevan",47000.0,Sedan,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2948752,2.5,304,4,AWD 4x4,75.0,2.0,500.0
+Mitsubishi,Airtrek ,2022,25000.0,"Armenia, Yerevan",30000.0,Wagon,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2816707,2.5,224,4,FWD,0.0,1.0,520.0
+Tesla,Model 3 ,2018,25000.0,Armenia,90000.0,Sedan,Electric,Automatic,Left,Black,Good,https://auto.am/offer/3035227,2.5,304,4,RWD,75.0,1.0,490.0
+Tesla,Model 3 ,2018,25000.0,"Armenia, Yerevan",51000.0,Sedan,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3030760,2.5,350,4,AWD 4x4,82.0,2.0,485.0
+BYD,Yuan Plus ,2023,25000.0,Armenia,20.0,Wagon,Electric,Automatic,Left,Gray,New,https://auto.am/offer/3015027,2.5,218,4,FWD,60.0,1.0,510.0
+Tesla,Model 3 ,2018,25000.0,"Armenia, Yerevan",54200.0,Sedan,Electric,Automatic,Left,Blue,Excellent,https://auto.am/offer/3024215,2.5,304,4,AWD 4x4,78.0,1.0,550.0
+Tesla,Model 3 ,2019,25000.0,"Armenia, Yerevan",80000.0,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3032579,2.5,280,4,RWD,190.0,1.0,350.0
+Volkswagen,ID.4 ,2022,25000.0,"Armenia, Yerevan",4500.0,SUV / Truck,Electric,Automatic,Left,Blue,Excellent,https://auto.am/offer/3040252,2.5,204,4,AWD 4x4,80.0,2.0,650.0
+Weltmeister,EX5 ,2021,25000.0,"Armenia, Yerevan",20000.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3036830,2.5,200,4,AWD 4x4,56.0,2.0,505.0
+Tesla,Model 3 ,2021,25000.0,"Armenia, Yerevan",49000.0,Sedan,Electric,Automatic,Right,White,Average,https://auto.am/offer/3023789,2.5,271,4,RWD,70.0,1.0,350.0
+Honda,e:NS1 ,2023,24900.0,"Armenia, Yerevan",24.0,Sedan,Electric,Automatic,Left,White,New,https://auto.am/offer/2932080,1.5,201,4,FWD,68.0,1.0,510.0
+Volkswagen,ID.4 ,2022,24900.0,"Armenia, Ararat",23000.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3030418,2.5,204,4,RWD,84.0,1.0,500.0
+Toyota,Bz3 ,2024,24900.0,"Armenia, Yerevan",10.0,Sedan,Electric,Automatic,Left,Black,New,https://auto.am/offer/3029160,2.5,200,4,FWD,50.0,1.0,517.0
+Volvo,XC40 ,2023,61250.0,"Armenia, Yerevan",44.0,SUV / Truck,Electric,Automatic,Left,Blue,sell.condition-values.,https://auto.am/offer/2981097,2.0,231,4,FWD,69.0,2.0,500.0
+Honda,e:NS1 ,2023,24500.0,Armenia,20.0,SUV / Truck,Electric,Automatic,Left,Sky-blue,New,https://auto.am/offer/3005626,1.5,204,4,FWD,68.0,1.0,510.0
+Dongfeng,Forthing S60 EV ,2023,24500.0,"Armenia, Yerevan",11.0,Sedan,Electric,Automatic,Left,White,New,https://auto.am/offer/2961979,2.5,200,4,AWD 4x4,57.0,2.0,410.0
+Tesla,Model 3 ,2019,24000.0,"Armenia, Kotayk",130000.0,Sedan,Electric,Automatic,Left,Blue,Good,https://auto.am/offer/3037640,2.5,269,4,RWD,75.0,2.0,300.0
+Honda,e:NS1 ,2023,24000.0,"Armenia, Yerevan",10.0,SUV / Truck,Electric,Automatic,Left,White,New,https://auto.am/offer/2971884,1.5,204,4,FWD,150.0,1.0,510.0
+Tesla,Model 3 ,2018,23900.0,"Armenia, Yerevan",70000.0,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3009474,2.5,304,4,AWD 4x4,70.0,1.0,500.0
+Tesla,Model 3 ,2021,23800.0,"Armenia, Yerevan",50000.0,Sedan,Electric,Automatic,Left,Blue,Excellent,https://auto.am/offer/3039194,2.5,271,4,RWD,55.0,1.0,405.0
+Tesla,Model 3 ,2019,23600.0,"Armenia, Yerevan",86000.0,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3040138,2.5,269,4,RWD,60.0,2.0,350.0
+Honda,e:NS1 ,2023,23500.0,"Armenia, Kotayk",40.0,SUV / Truck,Electric,Automatic,Left,White,New,https://auto.am/offer/2969408,1.5,204,4,FWD,68.0,1.0,510.0
+Honda,e:NS1 ,2023,23500.0,"Armenia, Yerevan",18000.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3038880,1.5,204,4,FWD,70.0,1.0,510.0
+Honda,e:NS1 ,2022,23500.0,"Armenia, Yerevan",20.0,SUV / Truck,Electric,Automatic,Left,Blue,New,https://auto.am/offer/2959063,2.0,199,4,AWD 4x4,68.0,2.0,515.0
+Honda,e:NP1 ,2023,23000.0,"Armenia, Yerevan",74.0,SUV / Truck,Electric,Automatic,Left,White,sell.condition-values.,https://auto.am/offer/2987309,1.5,204,4,FWD,101.0,2.0,510.0
+Honda,e:NS1 ,2024,23000.0,"Armenia, Yerevan",75.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2906881,2.5,204,4,FWD,68.0,1.0,420.0
+Mazda,CX 30 ,2022,22900.0,"Armenia, Yerevan",15000.0,Wagon,Electric,Automatic,Left,Blue,Excellent,https://auto.am/offer/3037472,2.5,189,4,AWD 4x4,68.0,2.0,400.0
+Honda,e:NS1 ,2023,22700.0,"Armenia, Yerevan",17.0,SUV / Truck,Electric,Automatic,Left,White,New,https://auto.am/offer/3018358,1.5,204,4,FWD,68.0,1.0,510.0
+Honda,e:NS1 ,2023,22500.0,Armenia,3500.0,Sedan,Electric,Automatic,Left,White,New,https://auto.am/offer/3029375,1.5,204,4,FWD,68.0,1.0,510.0
+Honda,e:NS1 ,2023,22500.0,"Armenia, Yerevan",15.0,SUV / Truck,Electric,Automatic,Left,White,New,https://auto.am/offer/3032016,1.5,204,4,FWD,68.0,1.0,510.0
+Tesla,Model 3 ,2019,22500.0,"Armenia, Yerevan",96320.0,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3038309,2.5,269,4,RWD,55.0,1.0,380.0
+Honda,e:NS1 ,2023,22000.0,"Armenia, Kotayk",44.0,SUV / Truck,Electric,Automatic,Left,Sky-blue,New,https://auto.am/offer/2949107,1.5,204,4,FWD,68.0,1.0,510.0
+Tesla,Model 3 ,2018,22000.0,"Armenia, Yerevan",65000.0,Sedan,Electric,Automatic,Left,Black,Good,https://auto.am/offer/2917570,2.5,304,4,AWD 4x4,75.0,1.0,490.0
+Tesla,Model S ,2015,22000.0,"Armenia, Yerevan",105000.0,Sedan,Electric,Automatic,Left,Blue,Excellent,https://auto.am/offer/3019656,2.5,422,4,AWD 4x4,70.0,2.0,360.0
+Zeekr,001 ,2023,54750.0,"Armenia, Yerevan",20.0,Sedan,Electric,Automatic,Left,Blue,New,https://auto.am/offer/3011037,2.5,272,4,RWD,100.0,1.0,741.0
+Honda,e:NS1 ,2023,21900.0,"Armenia, Yerevan",4000.0,Wagon,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3034238,1.5,204,4,FWD,68.0,1.0,510.0
+Honda,e:NS1 ,2023,21750.0,Armenia,10.0,SUV / Truck,Electric,Automatic,Left,White,New,https://auto.am/offer/3024437,1.5,204,4,FWD,69.0,1.0,510.0
+Honda,e:NS1 ,2023,21200.0,Armenia,20.0,Wagon,Electric,Automatic,Left,White,New,https://auto.am/offer/2966134,1.5,204,4,FWD,68.0,1.0,510.0
+Honda,e:NS1 ,2023,21000.0,"Armenia, Aragatsotn",10000.0,SUV / Truck,Electric,Automatic,Left,White,New,https://auto.am/offer/3040301,1.5,204,4,FWD,68.0,1.0,510.0
+Tesla,Model S ,2013,21000.0,"Armenia, Yerevan",129600.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2985507,2.5,306,4,RWD,85.0,1.0,400.0
+Tesla,Model 3 ,2019,21000.0,"Armenia, Yerevan",99200.0,Sedan,Electric,Automatic,Left,Gray,Average,https://auto.am/offer/3037592,2.5,251,4,RWD,70.0,2.0,400.0
+Tesla,Model S ,2015,21000.0,"Armenia, Yerevan",137600.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2874287,2.5,380,4,RWD,85.0,2.0,405.0
+Tesla,Model 3 ,2020,21000.0,"Armenia, Yerevan",48.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3040478,2.5,275,4,RWD,99.0,1.0,386.0
+Honda,e:NS1 ,2023,20800.0,"Armenia, Yerevan",30.0,Wagon,Electric,Automatic,Left,Blue,New,https://auto.am/offer/2964843,1.5,204,4,FWD,68.0,1.0,510.0
+Honda,e:NS1 ,2023,20800.0,Armenia,10.0,SUV / Truck,Electric,Automatic,Left,Sky-blue,New,https://auto.am/offer/3027351,1.5,204,4,FWD,69.0,1.0,510.0
+Volkswagen,e-Bora ,2020,20500.0,"Armenia, Yerevan",22000.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2928226,1.6,136,4,FWD,100.0,2.0,305.0
+BYD,Qin ,2023,20000.0,"Armenia, Yerevan",120.0,Sedan,Electric,Automatic,Left,White,New,https://auto.am/offer/3035411,2.5,218,4,FWD,8.0,1.0,900.0
+Honda,e:NS1 ,2024,20000.0,"Armenia, Yerevan",14.0,SUV / Truck,Electric,Automatic,Left,White,New,https://auto.am/offer/2874775,2.5,185,4,FWD,53.0,1.0,420.0
+Mercedes-Benz,EQS SUV ,2023,190000.0,Armenia,15.0,SUV / Truck,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3021172,2.5,360,4,RWD,108.0,1.0,672.0
+Nissan,Leaf ,2018,19800.0,"Armenia, Yerevan",30000.0,Hatchback,Electric,Automatic,Left,Blue,Excellent,https://auto.am/offer/2834274,2.5,163,4,AWD 4x4,40.0,1.0,300.0
+Tesla,Model S ,2014,19800.0,"Armenia, Yerevan",70000.0,Sedan,Electric,Automatic,Left,Blue,New,https://auto.am/offer/3031804,2.5,200,4,AWD 4x4,85.0,1.0,400.0
+Honda,e:NP1 ,2023,19500.0,"Armenia, Yerevan",26.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2853592,1.5,204,4,FWD,58.0,1.0,420.0
+Tesla,Model S ,2015,19500.0,"Armenia, Yerevan",86400.0,Sedan,Electric,Automatic,Left,Blue,Excellent,https://auto.am/offer/2979037,2.5,401,4,AWD 4x4,85.0,2.0,500.0
+Tesla,Model S ,2014,19500.0,"Armenia, Yerevan",288000.0,Hatchback,Electric,Automatic,Left,White,Good,https://auto.am/offer/3038639,2.5,200,4,AWD 4x4,60.0,1.0,300.0
+Tesla,Model 3 ,2019,19300.0,"Armenia, Yerevan",128000.0,Sedan,Electric,Automatic,Left,Black,Good,https://auto.am/offer/3036242,2.5,269,4,RWD,58.0,2.0,350.0
+Jaguar,I-Pace ,2018,47250.0,"Armenia, Yerevan",2040.0,SUV / Truck,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3009285,3.0,300,6,AWD 4x4,90.0,2.0,480.0
+Tesla,Model 3 ,2019,18500.0,"Armenia, Yerevan",28000.0,Sedan,Electric,Automatic,Left,White,Damaged,https://auto.am/offer/3033207,2.5,269,4,RWD,75.0,2.0,380.0
+Tesla,Model 3 ,2018,18500.0,Armenia,165000.0,Hatchback,Electric,Automatic,Left,Black,Good,https://auto.am/offer/3032093,2.5,304,4,AWD 4x4,1.0,1.0,490.0
+Honda,M-NV ,2023,18500.0,"Armenia, Yerevan",11.0,SUV / Truck,Electric,Automatic,Left,White,sell.condition-values.,https://auto.am/offer/3035156,1.5,218,4,FWD,66.0,1.0,500.0
+Tesla,Model S ,2015,18500.0,"Armenia, Yerevan",300000.0,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3036793,2.5,401,4,AWD 4x4,60.0,1.0,300.0
+Mercedes-Benz,EQS SUV ,2023,171000.0,Armenia,4500.0,SUV / Truck,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3009520,2.5,360,4,RWD,108.0,1.0,672.0
+BMW,i7 ,2022,170000.0,"Armenia, Yerevan",2000.0,Sedan,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2954457,2.0,536,4,AWD 4x4,101.0,4.0,612.0
+Chevrolet,Bolt EV ,2021,17800.0,"Armenia, Yerevan",13000.0,Wagon,Electric,Automatic,Left,Օther color,Excellent,https://auto.am/offer/3023654,1.5,160,4,FWD,60.0,2.0,510.0
+Kia,Optima ,2017,17500.0,"Armenia, Yerevan",99200.0,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3022301,2.4,186,4,FWD,9.0,2.0,50.0
+Tesla,Model Y ,2021,43626.25,"Armenia, Yerevan",29300.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2899010,2.5,350,4,AWD 4x4,77.0,2.0,520.0
+BYD,Seagull ,2023,17400.0,"Armenia, Yerevan",25.0,Hatchback,Electric,Automatic,Left,White,New,https://auto.am/offer/3018623,2.5,218,4,FWD,38.0,1.0,405.0
+Neta,S ,2024,43250.0,"Armenia, Yerevan",10.0,Sedan,Electric,Automatic,Left,Silver,New,https://auto.am/offer/2910257,2.5,231,4,RWD,84.0,1.0,715.0
+Buick,Encore ,2024,17000.0,Armenia,20.0,Sedan,Electric,Automatic,Left,Օther color,New,https://auto.am/offer/3040380,2.5,200,4,AWD 4x4,50.0,1.0,430.0
+BYD,Yuan Up ,2024,17000.0,Armenia,10.0,Wagon,Electric,Automatic,Left,Օther color,sell.condition-values.,https://auto.am/offer/3040340,2.5,265,4,RWD,70.0,1.0,301.0
+BMW,i7 ,2024,168000.0,"Armenia, Yerevan",1300.0,Sedan,Electric,Automatic,Left,Green,Excellent,https://auto.am/offer/3039877,2.5,200,4,AWD 4x4,400.0,4.0,650.0
+Mercedes-Benz,EQS SUV ,2022,160000.0,"Armenia, Yerevan",4500.0,Wagon,Electric,Automatic,Left,Black,sell.condition-values.,https://auto.am/offer/3026135,4.0,408,8,AWD 4x4,108.0,2.0,600.0
+Tesla,Model 3 ,2021,41476.137500000004,"Armenia, Yerevan",57000.0,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3027704,2.5,271,4,RWD,4.0,4.0,500.0
+Tesla,Model Y ,2021,41250.0,"Armenia, Yerevan",28800.0,Sedan,Electric,Automatic,Left,Cherry,Excellent,https://auto.am/offer/3031717,2.5,50,4,AWD 4x4,80.0,2.0,580.0
+BMW,i3 ,2016,16500.0,"Armenia, Yerevan",80000.0,Hatchback,Electric,Automatic,Left,Օther color,Excellent,https://auto.am/offer/3023759,2.0,245,4,RWD,33.0,2.0,200.0
+Chevrolet,Volt ,2016,16200.0,"Armenia, Yerevan",141440.0,Hatchback,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3002089,1.5,150,4,FWD,18.0,1.0,80.0
+Skywell,BE11 ,2023,39750.0,Armenia,10.0,SUV / Truck,Electric,Automatic,Left,Black,New,https://auto.am/offer/3032268,2.5,204,4,FWD,72.0,1.0,520.0
+Mercedes-Benz,B Electric Drive ,2014,15900.0,"Armenia, Yerevan",105000.0,Hatchback,Electric,Automatic,Left,Օther color,Excellent,https://auto.am/offer/2804569,4.7,456,8,AWD 4x4,30.0,2.0,500.0
+Chevrolet,Volt ,2018,15900.0,"Armenia, Yerevan",59200.0,Hatchback,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2984599,1.5,149,4,FWD,1.0,2.0,128.0
+Honda,e:NP1 ,2023,15800.0,"Armenia, Yerevan",2850.0,Wagon,Electric,Automatic,Left,Black,Damaged,https://auto.am/offer/3038538,1.5,204,4,FWD,68.0,4.0,510.0
+Chevrolet,Volt ,2016,15800.0,"Armenia, Yerevan",191478.0,Hatchback,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/2968426,1.5,150,4,FWD,18.0,1.0,120.0
+Volkswagen,iD.6 ,2022,38750.0,"Armenia, Yerevan",20.0,SUV / Truck,Electric,Automatic,Left,White,New,https://auto.am/offer/3015168,2.5,204,4,RWD,84.0,1.0,607.0
+Neta,S ,2024,37500.0,"Armenia, Yerevan",30.0,Sedan,Electric,Automatic,Left,Black,sell.condition-values.,https://auto.am/offer/3038066,2.5,231,4,RWD,44.0,1.0,310.0
+Chevrolet,Volt ,2017,15000.0,"Armenia, Yerevan",107000.0,Hatchback,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3021429,1.5,149,4,FWD,110.0,1.0,100.0
+Chevrolet,Volt ,2016,15000.0,"Armenia, Yerevan",185000.0,Wagon,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3022237,1.5,150,4,FWD,16.0,1.0,85.0
+Chevrolet,Volt ,2016,15000.0,"Armenia, Yerevan",112000.0,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3033578,1.5,150,4,FWD,14.0,1.0,100.0
+Chevrolet,Volt ,2017,15000.0,"Armenia, Yerevan",179200.0,Hatchback,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3024947,1.5,149,4,FWD,18.0,2.0,100.0
+Porsche,Taycan ,2021,149000.0,Armenia,3500.0,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/2656656,2.5,200,4,AWD 4x4,92.0,2.0,525.0
+Mercedes-Benz,EQS ,2023,145000.0,Armenia,9600.0,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/2991315,2.5,288,4,AWD 4x4,91.0,4.0,600.0
+BMW,i7 ,2022,140000.0,Armenia,7500.0,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3035436,2.0,544,4,AWD 4x4,100.0,4.0,600.0
+Volkswagen,ID.4 ,2023,37250.0,"Armenia, Yerevan",20.0,SUV / Truck,Electric,Automatic,Left,White,New,https://auto.am/offer/3015158,2.5,204,4,RWD,84.0,1.0,607.0
+Skywell,BE11 ,2023,37250.0,Armenia,10.0,SUV / Truck,Electric,Automatic,Left,Blue,New,https://auto.am/offer/3032263,2.5,204,4,FWD,72.0,1.0,520.0
+Kia,EV5 ,2024,37250.0,"Armenia, Yerevan",20.0,SUV / Truck,Electric,Automatic,Left,Gray,New,https://auto.am/offer/3015154,2.5,218,4,FWD,64.0,1.0,530.0
+Chevrolet,Volt ,2016,14900.0,"Armenia, Yerevan",88000.0,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3037420,1.5,150,4,FWD,18.0,1.0,120.0
+Cadillac,ELR ,2014,14800.0,"Armenia, Yerevan",249600.0,Coupe,Electric,Automatic,Left,Silver,Excellent,https://auto.am/offer/2987786,1.4,84,4,FWD,17.0,1.0,60.0
+Chevrolet,Volt ,2018,14500.0,"Armenia, Yerevan",120000.0,Hatchback,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/2993511,1.5,149,4,FWD,14.0,2.0,128.0
+Volkswagen,e-Lavida ,2021,14500.0,"Armenia, Yerevan",65000.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3025965,2.5,136,4,RWD,40.0,1.0,65000.0
+Chevrolet,Volt ,2016,14500.0,"Armenia, Yerevan",109000.0,Hatchback,Electric,Automatic,Left,Silver,Excellent,https://auto.am/offer/3040639,1.5,150,4,FWD,14.0,3.0,90.0
+Chevrolet,Volt ,2018,14500.0,Armenia,130000.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3018412,1.5,149,4,FWD,14.0,2.0,128.0
+BYD,Seagull ,2024,14500.0,Armenia,20.0,Hatchback,Electric,Automatic,Left,Օther color,sell.condition-values.,https://auto.am/offer/3040348,2.5,218,4,FWD,55.0,1.0,305.0
+Chevrolet,Volt ,2017,14500.0,"Armenia, Yerevan",134400.0,Sedan,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3037154,1.5,149,4,FWD,18.0,1.0,100.0
+BYD,Song Plus ,2023,35500.0,"Armenia, Yerevan",20.0,SUV / Truck,Electric,Automatic,Left,White,New,https://auto.am/offer/3002476,2.5,218,4,FWD,87.0,1.0,605.0
+Tesla,Model Y ,2021,35000.0,"Armenia, Yerevan",92800.0,Wagon,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3040723,2.5,350,4,AWD 4x4,375.0,2.0,500.0
+BYD,Song  L ,2024,35000.0,Armenia,25.0,Wagon,Electric,Automatic,Left,Silver,sell.condition-values.,https://auto.am/offer/3034504,2.5,313,4,RWD,71.0,1.0,550.0
+Chevrolet,Volt ,2017,14000.0,"Armenia, Yerevan",110000.0,Sedan,Electric,Automatic,Left,Blue,Excellent,https://auto.am/offer/3016339,1.5,149,4,FWD,18.0,1.0,100.0
+Volkswagen,E-Golf ,2016,14000.0,"Armenia, Yerevan",65600.0,Hatchback,Electric,Automatic,Left,White,Good,https://auto.am/offer/3027770,2.0,180,4,AWD 4x4,24.0,1.0,150.0
+Nissan,Leaf ,2019,14000.0,"Armenia, Yerevan",43000.0,Hatchback,Electric,Automatic,Left,Silver,Excellent,https://auto.am/offer/3034617,1.6,122,4,FWD,40.0,1.0,250.0
+Chevrolet,Volt ,2017,14000.0,"Armenia, Ararat",104000.0,Hatchback,Electric,Automatic,Left,Gray,Good,https://auto.am/offer/3026263,1.5,149,4,FWD,20.0,1.0,120.0
+Opel,Combo ,2012,14000.0,Armenia,43000.0,Van,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3030445,2.5,200,4,AWD 4x4,24.0,2.0,110.0
+BMW,i7 ,2022,139900.0,"Armenia, Yerevan",23000.0,Sedan,Electric,Automatic,Left,Blue,Excellent,https://auto.am/offer/3023827,2.0,544,4,AWD 4x4,400.0,4.0,625.0
+Mercedes-Benz,EQS ,2022,139700.0,"Armenia, Yerevan",4000.0,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/2795751,3.0,327,6,AWD 4x4,215.0,2.0,660.0
+Hongqi,E-HS9 ,2022,136000.0,Armenia,12000.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2997932,2.5,200,4,AWD 4x4,92.0,2.0,670.0
+Mercedes-Benz,EQS ,2022,130000.0,"Armenia, Yerevan",10000.0,Sedan,Electric,Automatic,Left,Black,sell.condition-values.,https://auto.am/offer/3036492,3.0,327,6,AWD 4x4,120.0,2.0,620.0
+Porsche,Taycan ,2021,130000.0,"Armenia, Yerevan",20000.0,SUV / Truck,Electric,Automatic,Left,Օther color,Excellent,https://auto.am/offer/3035266,2.5,200,4,AWD 4x4,110.0,2.0,600.0
+Chevrolet,Volt ,2017,13900.0,"Armenia, Yerevan",110000.0,Hatchback,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3040013,1.5,149,4,FWD,16.0,1.0,100.0
+Chevrolet,Volt ,2016,13900.0,"Armenia, Yerevan",140000.0,Hatchback,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2995723,1.5,150,4,FWD,15.0,1.0,150000.0
+Tesla,Model S ,2012,13800.0,"Armenia, Yerevan",140000.0,Sedan,Electric,Automatic,Left,Gray,Good,https://auto.am/offer/3033815,2.5,200,4,AWD 4x4,85.0,1.0,430.0
+BYD,Han EV ,2023,34000.0,Armenia,350.0,Sedan,Electric,Automatic,Left,Black,sell.condition-values.,https://auto.am/offer/3038464,2.5,218,4,FWD,60.0,1.0,506.0
+Chevrolet,Volt ,2018,13600.0,"Armenia, Yerevan",54000.0,Hatchback,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2753146,1.5,149,4,FWD,15.0,2.0,128.0
+BYD,Song Plus ,2023,33500.0,Armenia,25.0,SUV / Truck,Electric,Automatic,Left,White,New,https://auto.am/offer/3034496,2.5,218,4,FWD,87.0,1.0,605.0
+Neta,S ,2024,32500.0,Armenia,10.0,Sedan,Electric,Automatic,Left,White,New,https://auto.am/offer/3039768,2.5,231,4,RWD,65.0,1.0,520.0
+Chevrolet,Volt ,2016,13000.0,"Armenia, Yerevan",198000.0,Hatchback,Electric,Automatic,Left,Gray,Good,https://auto.am/offer/3017721,1.5,150,4,FWD,15.0,1.0,100.0
+Mercedes-Benz,EQS ,2022,125000.0,Armenia,7000.0,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3002638,3.0,327,6,AWD 4x4,1.0,2.0,660.0
+BMW,i7 ,2023,125000.0,"Armenia, Yerevan",900.0,Sedan,Electric,Automatic,Left,Black,New,https://auto.am/offer/3014140,2.0,252,4,AWD 4x4,105.0,2.0,500.0
+Mercedes-Benz,EQS ,2023,124000.0,"Armenia, Yerevan",500.0,Sedan,Electric,Automatic,Left,Black,New,https://auto.am/offer/3034313,2.5,288,4,AWD 4x4,105.0,4.0,600.0
+Skywell,BE11 ,2024,32250.0,Armenia,10.0,SUV / Truck,Electric,Automatic,Left,White,New,https://auto.am/offer/3032255,2.5,204,4,FWD,72.0,1.0,520.0
+Cadillac,ELR ,2014,12800.0,"Armenia, Yerevan",184000.0,Coupe,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/2978955,1.4,149,4,FWD,17.0,1.0,60.0
+BMW,i3 ,2014,12800.0,Armenia,75200.0,Hatchback,Electric,Automatic,Left,Silver,Excellent,https://auto.am/offer/2965245,2.0,184,4,RWD,21.0,1.0,500.0
+Geely,Geometry C ,2023,31750.0,"Armenia, Yerevan",20.0,SUV / Truck,Electric,Automatic,Left,Silver,New,https://auto.am/offer/2995341,1.75,201,3,FWD,70.0,1.0,550.0
+Mercedes-Benz,EQS SUV ,2023,119000.0,"Armenia, Yerevan",12000.0,SUV / Truck,Electric,Automatic,Left,Black,New,https://auto.am/offer/3018482,2.5,360,4,RWD,108.0,1.0,672.0
+Porsche,Taycan ,2020,119000.0,"Armenia, Yerevan",19000.0,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/3019268,2.5,200,4,AWD 4x4,460.0,4.0,480.0
+Audi,e-tron GT ,2021,115000.0,"Armenia, Yerevan",15500.0,Sedan,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3019271,3.5,507,6,AWD 4x4,350.0,4.0,450.0
+BMW,i7 ,2022,101200.0,Armenia,14000.0,Sedan,Electric,Automatic,Left,Gray,Excellent,https://auto.am/offer/3009640,2.0,544,4,AWD 4x4,105.0,4.0,612.0
+BMW,i7 ,2023,101200.0,Armenia,800.0,Sedan,Electric,Automatic,Left,Black,Excellent,https://auto.am/offer/2872259,2.0,252,4,AWD 4x4,378.0,2.0,500.0
+BMW,i7 ,2022,101200.0,Armenia,13000.0,Sedan,Electric,Automatic,Left,Gray,New,https://auto.am/offer/2998529,2.0,544,4,AWD 4x4,105.0,4.0,612.0
+Aiqar,eQ3 ,2024,29750.0,"Armenia, Yerevan",10.0,SUV / Truck,Electric,Automatic,Left,Black,New,https://auto.am/offer/3038404,2.5,279,4,AWD 4x4,70.0,2.0,501.0
+Aiqar,eQ7 ,2024,28750.0,"Armenia, Yerevan",10.0,Wagon,Electric,Automatic,Left,Gray,New,https://auto.am/offer/3019033,2.5,211,4,RWD,66.0,1.0,512.0
+Aiqar,eQ7 ,2024,28750.0,"Armenia, Yerevan",10.0,Wagon,Electric,Automatic,Left,Black,New,https://auto.am/offer/3006071,2.5,211,4,RWD,66.0,1.0,512.0
+Wuling,G100 Cargo Van ,2023,28750.0,"Armenia, Yerevan",11.0,Wagon,Electric,Automatic,Left,Silver,New,https://auto.am/offer/2971870,2.5,200,4,AWD 4x4,42.0,2.0,500.0
+Aiqar,eQ7 ,2024,28750.0,"Armenia, Yerevan",10.0,Wagon,Electric,Automatic,Left,White,New,https://auto.am/offer/3019050,2.5,211,4,RWD,66.0,1.0,512.0
+Tesla,Model Y ,2020,11500.0,"Armenia, Yerevan",35200.0,Wagon,Electric,Automatic,Left,White,Damaged,https://auto.am/offer/3029218,2.5,403,4,AWD 4x4,75.0,2.0,450.0
+Mitsubishi,Airtrek ,2022,28258.02,"Armenia, Shirak",800.0,SUV / Truck,Electric,Automatic,Left,White,New,https://auto.am/offer/3023768,2.5,224,4,FWD,70.0,1.0,520.0
+Geely,Geometry C ,2023,28000.0,"Armenia, Yerevan",20.0,SUV / Truck,Electric,Automatic,Left,Sky-blue,New,https://auto.am/offer/2995345,1.75,201,3,FWD,53.0,1.0,400.0
+Neta,U 500 Pro ,2023,27500.0,"Armenia, Yerevan",10.0,Wagon,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/2910253,2.5,163,4,FWD,66.0,1.0,500.0
+Changan,E-Star ,2023,11000.0,Armenia,25.0,Hatchback,Electric,Automatic,Left,Green,New,https://auto.am/offer/3005625,2.0,74,4,FWD,33.0,1.0,300.0
+Chevrolet,Volt ,2015,11000.0,"Armenia, Yerevan",180000.0,Hatchback,Electric,Automatic,Left,Silver,Excellent,https://auto.am/offer/2942949,1.4,150,4,FWD,17.0,1.0,1.0
+Mercedes-Benz,EQS ,2022,107700.0,Armenia,7040.0,Sedan,Electric,Automatic,Left,Blue,Excellent,https://auto.am/offer/2989418,3.0,327,6,AWD 4x4,91.0,2.0,660.0
+Hongqi,E-HS9 ,2023,105000.0,"Armenia, Yerevan",1800.0,SUV / Truck,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3037584,2.5,200,4,AWD 4x4,95.0,2.0,560.0
+Hongqi,E-HS9 ,2022,104000.0,"Armenia, Yerevan",4500.0,Wagon,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3024302,2.5,200,4,AWD 4x4,120.0,2.0,670.0
+Tesla,Model X ,2023,100000.0,"Armenia, Yerevan",1200.0,SUV / Truck,Electric,Automatic,Left,Black,New,https://auto.am/offer/3034391,2.5,670,4,AWD 4x4,100.0,2.0,560.0
+Honda,e:NP1 ,2023,27250.0,Armenia,20.0,SUV / Truck,Electric,Automatic,Left,White,New,https://auto.am/offer/3015149,1.5,204,4,FWD,68.0,1.0,510.0
+Chevrolet,Volt ,2013,10900.0,"Armenia, Yerevan",97600.0,Hatchback,Electric,Automatic,Left,Red,Excellent,https://auto.am/offer/2804794,1.4,149,4,FWD,58.0,2.0,70.0
+Chevrolet,Volt ,2012,10500.0,Armenia,160000.0,Hatchback,Electric,Automatic,Left,Silver,Excellent,https://auto.am/offer/3027432,1.4,149,4,FWD,1.0,1.0,65.0
+Chevrolet,Volt ,2014,10000.0,"Armenia, Lori",224000.0,Hatchback,Electric,Automatic,Left,White,Excellent,https://auto.am/offer/3036840,1.4,149,4,FWD,17.0,1.0,80.0
